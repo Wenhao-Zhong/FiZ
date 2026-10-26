@@ -1,0 +1,18 @@
+{
+  "independently_replayed_games": 200,
+  "groups": [
+    {
+      "group": "four_ply",
+      "games": 100,
+      "unique_histories": 100
+    },
+    {
+      "group": "empty_seeded",
+      "games": 100,
+      "unique_histories": 72
+    }
+  ],
+  "all_engine_processes_exited": true,
+  "checkpoint_sha256": "9297acb61636120126610464090dce21a18d76fb834d67311c5729727c881900",
+  "assessment_sha256": "d38c801c7133f8426b140bedfd754eae5580e168cd1ef92ddcefd53c4da15cd9"
+}

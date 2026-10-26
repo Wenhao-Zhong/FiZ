@@ -1,0 +1,11 @@
+{
+  "model_name": "FiZ",
+  "expanded_name": "Five-in-a-row Zero",
+  "checkpoint_labels": "nominal hour only",
+  "players": "Black and White model names only",
+  "bottom_annotations": false,
+  "diagrams": 36,
+  "renderer_sha256": "9411eda1685b658dfc07653f1f5232ab4a0388771a731eac08287f3153539a36",
+  "updated_at": "2026-10-26T14:04:10.088640+00:00",
+  "game_records_unchanged": true
+}

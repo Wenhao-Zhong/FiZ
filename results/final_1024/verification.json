@@ -1,0 +1,27 @@
+{
+  "independently_replayed_games": 200,
+  "groups": [
+    {
+      "group": "empty_seeded",
+      "games": 100,
+      "unique_histories": 16
+    },
+    {
+      "group": "four_ply",
+      "games": 100,
+      "unique_histories": 100
+    }
+  ],
+  "same_model_openings_seeds_colors_assets": true,
+  "changed_parameter": {
+    "eval_simulations": [
+      512,
+      1024
+    ]
+  },
+  "fresh_engine_instances": 200,
+  "all_engine_processes_exited": true,
+  "frozen_files_unchanged": 19,
+  "checkpoint_sha256": "9297acb61636120126610464090dce21a18d76fb834d67311c5729727c881900",
+  "assessment_sha256": "73dd89ee4088f7f0efd38518a99af5f0a96b4143618475a5754bb98c3ad3b54e"
+}

@@ -1,0 +1,344 @@
+{
+  "slot_hour": 20,
+  "snapshot": "model.pt",
+  "snapshot_sha256": "ffb53a3db92a6c210aec12de384ee0a584cecd767485a39e957bad189772714f",
+  "training_hours": 20.30832990388884,
+  "training_plies": 4322494,
+  "optimizer_steps": 16455,
+  "source_checkpoint_sha256": "b5209932e59000d6c8ed258f7daec3872b7e10999790b42117042f01bf904c4f",
+  "training_hours_basis": "checkpoint elapsed wall time",
+  "number": 32,
+  "id": "h20-v2048-black",
+  "simulations": 2048,
+  "model_color": 1,
+  "model_seed": 101041,
+  "opening": [],
+  "history": [
+    80,
+    64,
+    96,
+    65,
+    82,
+    79,
+    110,
+    68,
+    94,
+    93,
+    107,
+    108,
+    66,
+    78,
+    63,
+    50,
+    36,
+    51,
+    37,
+    52,
+    49,
+    92,
+    106,
+    124,
+    76,
+    140,
+    156,
+    53,
+    54,
+    126,
+    123,
+    98,
+    112,
+    83,
+    113,
+    38
+  ],
+  "plies": 36,
+  "complete": true,
+  "winner": -1,
+  "score": 0.0,
+  "terminal_reason": "five_in_row",
+  "replay_verified": true,
+  "error": null,
+  "winning_line": [
+    38,
+    53,
+    68,
+    83,
+    98
+  ],
+  "model_timings": [
+    {
+      "ply": 1,
+      "wall_ms": 3295.365900034085
+    },
+    {
+      "ply": 3,
+      "wall_ms": 2910.0711001083255
+    },
+    {
+      "ply": 5,
+      "wall_ms": 3020.5880999565125
+    },
+    {
+      "ply": 7,
+      "wall_ms": 2897.288100095466
+    },
+    {
+      "ply": 9,
+      "wall_ms": 3139.364899834618
+    },
+    {
+      "ply": 11,
+      "wall_ms": 3255.088400095701
+    },
+    {
+      "ply": 13,
+      "wall_ms": 3001.340299844742
+    },
+    {
+      "ply": 15,
+      "wall_ms": 2938.0342001095414
+    },
+    {
+      "ply": 17,
+      "wall_ms": 2834.743100218475
+    },
+    {
+      "ply": 19,
+      "wall_ms": 2935.2744000498205
+    },
+    {
+      "ply": 21,
+      "wall_ms": 2983.245600014925
+    },
+    {
+      "ply": 23,
+      "wall_ms": 3182.764200028032
+    },
+    {
+      "ply": 25,
+      "wall_ms": 3053.7670000921935
+    },
+    {
+      "ply": 27,
+      "wall_ms": 1188.5709001217037
+    },
+    {
+      "ply": 29,
+      "wall_ms": 866.9803000520915
+    },
+    {
+      "ply": 31,
+      "wall_ms": 828.8082000799477
+    },
+    {
+      "ply": 33,
+      "wall_ms": 472.16650005429983
+    },
+    {
+      "ply": 35,
+      "wall_ms": 131.18989998474717
+    }
+  ],
+  "rapfi_timings": [
+    {
+      "ply": 2,
+      "wall_ms": 97.68879995681345
+    },
+    {
+      "ply": 4,
+      "wall_ms": 71.3445998262614
+    },
+    {
+      "ply": 6,
+      "wall_ms": 72.757099987939
+    },
+    {
+      "ply": 8,
+      "wall_ms": 0.743800075724721
+    },
+    {
+      "ply": 10,
+      "wall_ms": 70.86019986309111
+    },
+    {
+      "ply": 12,
+      "wall_ms": 71.88419997692108
+    },
+    {
+      "ply": 14,
+      "wall_ms": 71.54390006326139
+    },
+    {
+      "ply": 16,
+      "wall_ms": 71.30880001932383
+    },
+    {
+      "ply": 18,
+      "wall_ms": 71.2313000112772
+    },
+    {
+      "ply": 20,
+      "wall_ms": 8.99200001731515
+    },
+    {
+      "ply": 22,
+      "wall_ms": 2.0924999844282866
+    },
+    {
+      "ply": 24,
+      "wall_ms": 2.107999986037612
+    },
+    {
+      "ply": 26,
+      "wall_ms": 3.066800069063902
+    },
+    {
+      "ply": 28,
+      "wall_ms": 2.4800000246614218
+    },
+    {
+      "ply": 30,
+      "wall_ms": 2.131399931386113
+    },
+    {
+      "ply": 32,
+      "wall_ms": 1.4055001083761454
+    },
+    {
+      "ply": 34,
+      "wall_ms": 0.7453998550772667
+    },
+    {
+      "ply": 36,
+      "wall_ms": 0.39849989116191864
+    }
+  ],
+  "decisions": [
+    {
+      "ply": 1,
+      "action": 80,
+      "missed_immediate_win": false,
+      "missed_unique_block": false
+    },
+    {
+      "ply": 3,
+      "action": 96,
+      "missed_immediate_win": false,
+      "missed_unique_block": false
+    },
+    {
+      "ply": 5,
+      "action": 82,
+      "missed_immediate_win": false,
+      "missed_unique_block": false
+    },
+    {
+      "ply": 7,
+      "action": 110,
+      "missed_immediate_win": false,
+      "missed_unique_block": false
+    },
+    {
+      "ply": 9,
+      "action": 94,
+      "missed_immediate_win": false,
+      "missed_unique_block": false
+    },
+    {
+      "ply": 11,
+      "action": 107,
+      "missed_immediate_win": false,
+      "missed_unique_block": false
+    },
+    {
+      "ply": 13,
+      "action": 66,
+      "missed_immediate_win": false,
+      "missed_unique_block": false
+    },
+    {
+      "ply": 15,
+      "action": 63,
+      "missed_immediate_win": false,
+      "missed_unique_block": false
+    },
+    {
+      "ply": 17,
+      "action": 36,
+      "missed_immediate_win": false,
+      "missed_unique_block": false
+    },
+    {
+      "ply": 19,
+      "action": 37,
+      "missed_immediate_win": false,
+      "missed_unique_block": false
+    },
+    {
+      "ply": 21,
+      "action": 49,
+      "missed_immediate_win": false,
+      "missed_unique_block": false
+    },
+    {
+      "ply": 23,
+      "action": 106,
+      "missed_immediate_win": false,
+      "missed_unique_block": false
+    },
+    {
+      "ply": 25,
+      "action": 76,
+      "missed_immediate_win": false,
+      "missed_unique_block": false
+    },
+    {
+      "ply": 27,
+      "action": 156,
+      "missed_immediate_win": false,
+      "missed_unique_block": false
+    },
+    {
+      "ply": 29,
+      "action": 54,
+      "missed_immediate_win": false,
+      "missed_unique_block": false
+    },
+    {
+      "ply": 31,
+      "action": 123,
+      "missed_immediate_win": false,
+      "missed_unique_block": false
+    },
+    {
+      "ply": 33,
+      "action": 112,
+      "missed_immediate_win": false,
+      "missed_unique_block": false
+    },
+    {
+      "ply": 35,
+      "action": 113,
+      "missed_immediate_win": false,
+      "missed_unique_block": false
+    }
+  ],
+  "model_time": {
+    "moves": 18,
+    "total_seconds": 42.93465110077523,
+    "mean_ms": 2385.2583944875128,
+    "median_ms": 2936.654300079681,
+    "max_ms": 3295.365900034085
+  },
+  "rapfi_response_time": {
+    "moves": 18,
+    "total_seconds": 0.622782799648121,
+    "mean_ms": 34.59904442489561,
+    "median_ms": 6.029400043189526,
+    "max_ms": 97.68879995681345
+  },
+  "missed_immediate_wins": 0,
+  "missed_unique_blocks": 0,
+  "wall_seconds": 43.64806910022162,
+  "finished_at": "2026-10-26T13:44:46.445624+00:00"
+}

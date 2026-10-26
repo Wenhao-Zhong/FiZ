@@ -1,0 +1,216 @@
+{
+  "slot_hour": 1,
+  "snapshot": "model.pt",
+  "snapshot_sha256": "c22f97391c2f228541a382167b0badcfbc33bfd0c281c2a6aed9ee2094fcd218",
+  "training_hours": 1.000056370827887,
+  "training_plies": 144442,
+  "optimizer_steps": 535,
+  "source_checkpoint_sha256": "ba6ff3b1daf8408e47b5331548c3897f6e864076386eba5b4ea7817f467de5b6",
+  "training_hours_basis": "checkpoint elapsed wall time",
+  "number": 1,
+  "id": "h01-v512-black",
+  "simulations": 512,
+  "model_color": 1,
+  "model_seed": 101041,
+  "opening": [],
+  "history": [
+    217,
+    157,
+    221,
+    171,
+    220,
+    156,
+    219,
+    218,
+    216,
+    173,
+    222,
+    223,
+    215,
+    141,
+    214,
+    213,
+    212,
+    125,
+    211,
+    109
+  ],
+  "plies": 20,
+  "complete": true,
+  "winner": -1,
+  "score": 0.0,
+  "terminal_reason": "five_in_row",
+  "replay_verified": true,
+  "error": null,
+  "winning_line": [
+    109,
+    125,
+    141,
+    157,
+    173
+  ],
+  "model_timings": [
+    {
+      "ply": 1,
+      "wall_ms": 1655.9378998354077
+    },
+    {
+      "ply": 3,
+      "wall_ms": 1407.7750998549163
+    },
+    {
+      "ply": 5,
+      "wall_ms": 1582.9928000457585
+    },
+    {
+      "ply": 7,
+      "wall_ms": 1409.8944999277592
+    },
+    {
+      "ply": 9,
+      "wall_ms": 1176.547400187701
+    },
+    {
+      "ply": 11,
+      "wall_ms": 1250.7515999022871
+    },
+    {
+      "ply": 13,
+      "wall_ms": 1342.15799998492
+    },
+    {
+      "ply": 15,
+      "wall_ms": 1112.4867999460548
+    },
+    {
+      "ply": 17,
+      "wall_ms": 1156.1290000099689
+    },
+    {
+      "ply": 19,
+      "wall_ms": 1073.2015001121908
+    }
+  ],
+  "rapfi_timings": [
+    {
+      "ply": 2,
+      "wall_ms": 99.4092000182718
+    },
+    {
+      "ply": 4,
+      "wall_ms": 69.81280003674328
+    },
+    {
+      "ply": 6,
+      "wall_ms": 71.99889980256557
+    },
+    {
+      "ply": 8,
+      "wall_ms": 0.924800056964159
+    },
+    {
+      "ply": 10,
+      "wall_ms": 58.69660014286637
+    },
+    {
+      "ply": 12,
+      "wall_ms": 0.6177998147904873
+    },
+    {
+      "ply": 14,
+      "wall_ms": 2.27900012396276
+    },
+    {
+      "ply": 16,
+      "wall_ms": 0.4883999936282635
+    },
+    {
+      "ply": 18,
+      "wall_ms": 1.3818999286741018
+    },
+    {
+      "ply": 20,
+      "wall_ms": 0.3597000613808632
+    }
+  ],
+  "decisions": [
+    {
+      "ply": 1,
+      "action": 217,
+      "missed_immediate_win": false,
+      "missed_unique_block": false
+    },
+    {
+      "ply": 3,
+      "action": 221,
+      "missed_immediate_win": false,
+      "missed_unique_block": false
+    },
+    {
+      "ply": 5,
+      "action": 220,
+      "missed_immediate_win": false,
+      "missed_unique_block": false
+    },
+    {
+      "ply": 7,
+      "action": 219,
+      "missed_immediate_win": false,
+      "missed_unique_block": false
+    },
+    {
+      "ply": 9,
+      "action": 216,
+      "missed_immediate_win": false,
+      "missed_unique_block": false
+    },
+    {
+      "ply": 11,
+      "action": 222,
+      "missed_immediate_win": false,
+      "missed_unique_block": false
+    },
+    {
+      "ply": 13,
+      "action": 215,
+      "missed_immediate_win": false,
+      "missed_unique_block": false
+    },
+    {
+      "ply": 15,
+      "action": 214,
+      "missed_immediate_win": false,
+      "missed_unique_block": false
+    },
+    {
+      "ply": 17,
+      "action": 212,
+      "missed_immediate_win": false,
+      "missed_unique_block": false
+    },
+    {
+      "ply": 19,
+      "action": 211,
+      "missed_immediate_win": false,
+      "missed_unique_block": false
+    }
+  ],
+  "model_time": {
+    "moves": 10,
+    "total_seconds": 13.167874599806964,
+    "mean_ms": 1316.7874599806964,
+    "median_ms": 1296.4547999436036,
+    "max_ms": 1655.9378998354077
+  },
+  "rapfi_response_time": {
+    "moves": 10,
+    "total_seconds": 0.30596909997984767,
+    "mean_ms": 30.596909997984767,
+    "median_ms": 1.830450026318431,
+    "max_ms": 99.4092000182718
+  },
+  "missed_immediate_wins": 0,
+  "missed_unique_blocks": 0,
+  "wall_seconds": 13.55750220012851,
+  "finished_at": "2026-10-26T13:31:22.058892+00:00"
+}

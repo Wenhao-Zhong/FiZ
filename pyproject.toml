@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "az-gomoku"
+version = "0.1.0"
+description = "FiZ (Five-in-a-row Zero): from-scratch Gomoku self-play with a Transformer and PUCT"
+requires-python = ">=3.11"
+dependencies = ["numpy>=1.26", "torch>=2.5", "psutil>=5.9"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "pybind11>=2.13", "setuptools>=68"]
+plots = ["matplotlib>=3.8"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]

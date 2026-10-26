@@ -1,0 +1,373 @@
+{
+  "model_name": "FiZ",
+  "expanded_name": "Five-in-a-row Zero",
+  "groups": {
+    "empty_seeded": {
+      "512": {
+        "overall": {
+          "games": 100,
+          "wins": 40,
+          "draws": 0,
+          "losses": 60,
+          "score_rate": 0.4
+        },
+        "black": {
+          "games": 50,
+          "wins": 40,
+          "draws": 0,
+          "losses": 10,
+          "score_rate": 0.8
+        },
+        "white": {
+          "games": 50,
+          "wins": 0,
+          "draws": 0,
+          "losses": 50,
+          "score_rate": 0.0
+        },
+        "paired": {
+          "mean": 0.4,
+          "ci95": [
+            0.20793544173601586,
+            0.5920645582639842
+          ],
+          "ci_method": "Hoeffding 95% bounded-mean interval; predeclared RNG seed pairs on one empty opening are the units",
+          "bootstrap_ci95": [
+            0.34,
+            0.45
+          ],
+          "bootstrap_note": "descriptive only; percentile bootstrap can collapse at all-win/all-loss boundaries",
+          "uncertainty_scope": "random-seed variation on one empty opening, not opening diversity or training-seed variation",
+          "completed_pairs": 50,
+          "unpaired_games_excluded": 0,
+          "black": 0.8,
+          "white": 0.0
+        },
+        "unique_histories": 72,
+        "duplicate_histories": 28
+      },
+      "1024": {
+        "overall": {
+          "games": 100,
+          "wins": 50,
+          "draws": 0,
+          "losses": 50,
+          "score_rate": 0.5
+        },
+        "black": {
+          "games": 50,
+          "wins": 50,
+          "draws": 0,
+          "losses": 0,
+          "score_rate": 1.0
+        },
+        "white": {
+          "games": 50,
+          "wins": 0,
+          "draws": 0,
+          "losses": 50,
+          "score_rate": 0.0
+        },
+        "paired": {
+          "mean": 0.5,
+          "ci95": [
+            0.30793544173601584,
+            0.6920645582639842
+          ],
+          "ci_method": "Hoeffding 95% bounded-mean interval; predeclared RNG seed pairs on one empty opening are the units",
+          "bootstrap_ci95": [
+            0.5,
+            0.5
+          ],
+          "bootstrap_note": "descriptive only; percentile bootstrap can collapse at all-win/all-loss boundaries",
+          "uncertainty_scope": "random-seed variation on one empty opening, not opening diversity or training-seed variation",
+          "completed_pairs": 50,
+          "unpaired_games_excluded": 0,
+          "black": 1.0,
+          "white": 0.0
+        },
+        "unique_histories": 16,
+        "duplicate_histories": 84
+      },
+      "2048": {
+        "overall": {
+          "games": 100,
+          "wins": 50,
+          "draws": 0,
+          "losses": 50,
+          "score_rate": 0.5
+        },
+        "black": {
+          "games": 50,
+          "wins": 50,
+          "draws": 0,
+          "losses": 0,
+          "score_rate": 1.0
+        },
+        "white": {
+          "games": 50,
+          "wins": 0,
+          "draws": 0,
+          "losses": 50,
+          "score_rate": 0.0
+        },
+        "paired": {
+          "mean": 0.5,
+          "ci95": [
+            0.30793544173601584,
+            0.6920645582639842
+          ],
+          "ci_method": "Hoeffding 95% bounded-mean interval; predeclared RNG seed pairs on one empty opening are the units",
+          "bootstrap_ci95": [
+            0.5,
+            0.5
+          ],
+          "bootstrap_note": "descriptive only; percentile bootstrap can collapse at all-win/all-loss boundaries",
+          "uncertainty_scope": "random-seed variation on one empty opening, not opening diversity or training-seed variation",
+          "completed_pairs": 50,
+          "unpaired_games_excluded": 0,
+          "black": 1.0,
+          "white": 0.0
+        },
+        "unique_histories": 58,
+        "duplicate_histories": 42
+      },
+      "difference_1024_minus_512": {
+        "mean": 0.1,
+        "ci95": [
+          -0.28412911652796835,
+          0.4841291165279683
+        ],
+        "ci_method": "Hoeffding 95% bounded-mean interval; predeclared RNG seed pairs on one empty opening are the units",
+        "bootstrap_ci95": [
+          0.05,
+          0.16
+        ],
+        "bootstrap_note": "descriptive only; percentile bootstrap can collapse at all-win/all-loss boundaries",
+        "uncertainty_scope": "random-seed variation on one empty opening, not opening or training-seed diversity",
+        "paired_openings": 50
+      },
+      "difference_2048_minus_512": {
+        "mean": 0.1,
+        "ci95": [
+          -0.28412911652796835,
+          0.4841291165279683
+        ],
+        "ci_method": "Hoeffding 95% bounded-mean interval; predeclared RNG seed pairs on one empty opening are the units",
+        "bootstrap_ci95": [
+          0.05,
+          0.16
+        ],
+        "bootstrap_note": "descriptive only; percentile bootstrap can collapse at all-win/all-loss boundaries",
+        "uncertainty_scope": "random-seed variation on one empty opening, not opening or training-seed diversity",
+        "paired_openings": 50
+      },
+      "difference_2048_minus_1024": {
+        "mean": 0.0,
+        "ci95": [
+          -0.38412911652796833,
+          0.38412911652796833
+        ],
+        "ci_method": "Hoeffding 95% bounded-mean interval; predeclared RNG seed pairs on one empty opening are the units",
+        "bootstrap_ci95": [
+          0.0,
+          0.0
+        ],
+        "bootstrap_note": "descriptive only; percentile bootstrap can collapse at all-win/all-loss boundaries",
+        "uncertainty_scope": "random-seed variation on one empty opening, not opening or training-seed diversity",
+        "paired_openings": 50
+      }
+    },
+    "four_ply": {
+      "512": {
+        "overall": {
+          "games": 100,
+          "wins": 40,
+          "draws": 0,
+          "losses": 60,
+          "score_rate": 0.4
+        },
+        "black": {
+          "games": 50,
+          "wins": 34,
+          "draws": 0,
+          "losses": 16,
+          "score_rate": 0.68
+        },
+        "white": {
+          "games": 50,
+          "wins": 6,
+          "draws": 0,
+          "losses": 44,
+          "score_rate": 0.12
+        },
+        "paired": {
+          "mean": 0.4,
+          "ci95": [
+            0.20793544173601586,
+            0.5920645582639842
+          ],
+          "ci_method": "Hoeffding 95% bounded-mean interval; independent opening pairs are the units",
+          "bootstrap_ci95": [
+            0.34,
+            0.45
+          ],
+          "bootstrap_note": "descriptive only; percentile bootstrap can collapse at all-win/all-loss boundaries",
+          "uncertainty_scope": "evaluation opening pairs, not variation across training seeds",
+          "completed_pairs": 50,
+          "unpaired_games_excluded": 0,
+          "black": 0.68,
+          "white": 0.12
+        },
+        "unique_histories": 100,
+        "duplicate_histories": 0
+      },
+      "1024": {
+        "overall": {
+          "games": 100,
+          "wins": 38,
+          "draws": 0,
+          "losses": 62,
+          "score_rate": 0.38
+        },
+        "black": {
+          "games": 50,
+          "wins": 31,
+          "draws": 0,
+          "losses": 19,
+          "score_rate": 0.62
+        },
+        "white": {
+          "games": 50,
+          "wins": 7,
+          "draws": 0,
+          "losses": 43,
+          "score_rate": 0.14
+        },
+        "paired": {
+          "mean": 0.38,
+          "ci95": [
+            0.18793544173601584,
+            0.5720645582639842
+          ],
+          "ci_method": "Hoeffding 95% bounded-mean interval; independent opening pairs are the units",
+          "bootstrap_ci95": [
+            0.32,
+            0.44
+          ],
+          "bootstrap_note": "descriptive only; percentile bootstrap can collapse at all-win/all-loss boundaries",
+          "uncertainty_scope": "evaluation opening pairs, not variation across training seeds",
+          "completed_pairs": 50,
+          "unpaired_games_excluded": 0,
+          "black": 0.62,
+          "white": 0.14
+        },
+        "unique_histories": 100,
+        "duplicate_histories": 0
+      },
+      "2048": {
+        "overall": {
+          "games": 100,
+          "wins": 39,
+          "draws": 0,
+          "losses": 61,
+          "score_rate": 0.39
+        },
+        "black": {
+          "games": 50,
+          "wins": 32,
+          "draws": 0,
+          "losses": 18,
+          "score_rate": 0.64
+        },
+        "white": {
+          "games": 50,
+          "wins": 7,
+          "draws": 0,
+          "losses": 43,
+          "score_rate": 0.14
+        },
+        "paired": {
+          "mean": 0.39,
+          "ci95": [
+            0.19793544173601585,
+            0.5820645582639842
+          ],
+          "ci_method": "Hoeffding 95% bounded-mean interval; independent opening pairs are the units",
+          "bootstrap_ci95": [
+            0.33,
+            0.45
+          ],
+          "bootstrap_note": "descriptive only; percentile bootstrap can collapse at all-win/all-loss boundaries",
+          "uncertainty_scope": "evaluation opening pairs, not variation across training seeds",
+          "completed_pairs": 50,
+          "unpaired_games_excluded": 0,
+          "black": 0.64,
+          "white": 0.14
+        },
+        "unique_histories": 100,
+        "duplicate_histories": 0
+      },
+      "difference_1024_minus_512": {
+        "mean": -0.02,
+        "ci95": [
+          -0.40412911652796835,
+          0.3641291165279683
+        ],
+        "ci_method": "Hoeffding 95% bounded-mean interval; independent opening pairs are the units",
+        "bootstrap_ci95": [
+          -0.06,
+          0.02
+        ],
+        "bootstrap_note": "descriptive only; percentile bootstrap can collapse at all-win/all-loss boundaries",
+        "uncertainty_scope": "evaluation opening pairs, not variation across training seeds",
+        "paired_openings": 50
+      },
+      "difference_2048_minus_512": {
+        "mean": -0.01,
+        "ci95": [
+          -0.39412911652796834,
+          0.3741291165279683
+        ],
+        "ci_method": "Hoeffding 95% bounded-mean interval; independent opening pairs are the units",
+        "bootstrap_ci95": [
+          -0.05,
+          0.02
+        ],
+        "bootstrap_note": "descriptive only; percentile bootstrap can collapse at all-win/all-loss boundaries",
+        "uncertainty_scope": "evaluation opening pairs, not variation across training seeds",
+        "paired_openings": 50
+      },
+      "difference_2048_minus_1024": {
+        "mean": 0.01,
+        "ci95": [
+          -0.3741291165279683,
+          0.39412911652796834
+        ],
+        "ci_method": "Hoeffding 95% bounded-mean interval; independent opening pairs are the units",
+        "bootstrap_ci95": [
+          0.0,
+          0.03
+        ],
+        "bootstrap_note": "descriptive only; percentile bootstrap can collapse at all-win/all-loss boundaries",
+        "uncertainty_scope": "evaluation opening pairs, not variation across training seeds",
+        "paired_openings": 50
+      }
+    }
+  },
+  "evaluation_elapsed": {
+    "512_seconds": 573.3364608287811,
+    "1024_seconds": 704.2325682640076,
+    "2048_seconds": 1642.5760879516602,
+    "2048_successful_attempt_seconds": 1403.952510356903,
+    "2048_setup_and_recovery_seconds": 238.62357759475708
+  },
+  "rapfi_thinking_limit_ms": 100,
+  "note": "Identical predefined model RNG seed pairs and openings; fixed-time Rapfi search is not bitwise deterministic.",
+  "source_assessment_sha256": {
+    "512": "d38c801c7133f8426b140bedfd754eae5580e168cd1ef92ddcefd53c4da15cd9",
+    "1024": "73dd89ee4088f7f0efd38518a99af5f0a96b4143618475a5754bb98c3ad3b54e",
+    "2048": "b31f6cebc91912a020116ff26ffcf97fb36856889a9ebaa881da1f8c651c2946"
+  },
+  "evaluation_elapsed_note": "Recorded wall time; the 2048 total includes the initial zero-game setup failure and recovery interval. These runs were not an isolated speed benchmark."
+}

@@ -1,0 +1,216 @@
+{
+  "slot_hour": 4,
+  "snapshot": "model.pt",
+  "snapshot_sha256": "2d49ec9bcf2f86c90b8c65de8d2c925bd7ce90fdc59f6aec7f051510c419a9e3",
+  "training_hours": 4.0649274527364305,
+  "training_plies": 802811,
+  "optimizer_steps": 3012,
+  "source_checkpoint_sha256": "0ce894891224e00409da68aa75991f52a927bc294d121a8f68d3d8ee6818e3f6",
+  "training_hours_basis": "checkpoint elapsed wall time",
+  "number": 13,
+  "id": "h04-v512-black",
+  "simulations": 512,
+  "model_color": 1,
+  "model_seed": 101041,
+  "opening": [],
+  "history": [
+    70,
+    69,
+    54,
+    86,
+    84,
+    98,
+    56,
+    53,
+    38,
+    100,
+    72,
+    101,
+    42,
+    28,
+    22,
+    6,
+    40,
+    85,
+    24,
+    37
+  ],
+  "plies": 20,
+  "complete": true,
+  "winner": -1,
+  "score": 0.0,
+  "terminal_reason": "five_in_row",
+  "replay_verified": true,
+  "error": null,
+  "winning_line": [
+    37,
+    53,
+    69,
+    85,
+    101
+  ],
+  "model_timings": [
+    {
+      "ply": 1,
+      "wall_ms": 1079.816000070423
+    },
+    {
+      "ply": 3,
+      "wall_ms": 1047.652899986133
+    },
+    {
+      "ply": 5,
+      "wall_ms": 1532.6006000395864
+    },
+    {
+      "ply": 7,
+      "wall_ms": 1318.9133999403566
+    },
+    {
+      "ply": 9,
+      "wall_ms": 1371.2821998633444
+    },
+    {
+      "ply": 11,
+      "wall_ms": 1015.7474000006914
+    },
+    {
+      "ply": 13,
+      "wall_ms": 438.5393001139164
+    },
+    {
+      "ply": 15,
+      "wall_ms": 632.1517000906169
+    },
+    {
+      "ply": 17,
+      "wall_ms": 509.08489990979433
+    },
+    {
+      "ply": 19,
+      "wall_ms": 261.3486999180168
+    }
+  ],
+  "rapfi_timings": [
+    {
+      "ply": 2,
+      "wall_ms": 97.38310007378459
+    },
+    {
+      "ply": 4,
+      "wall_ms": 71.88940001651645
+    },
+    {
+      "ply": 6,
+      "wall_ms": 72.2980999853462
+    },
+    {
+      "ply": 8,
+      "wall_ms": 70.1106998603791
+    },
+    {
+      "ply": 10,
+      "wall_ms": 63.724400009959936
+    },
+    {
+      "ply": 12,
+      "wall_ms": 1.7506000585854053
+    },
+    {
+      "ply": 14,
+      "wall_ms": 0.5481999833136797
+    },
+    {
+      "ply": 16,
+      "wall_ms": 0.5614999681711197
+    },
+    {
+      "ply": 18,
+      "wall_ms": 0.5014999769628048
+    },
+    {
+      "ply": 20,
+      "wall_ms": 0.42409985326230526
+    }
+  ],
+  "decisions": [
+    {
+      "ply": 1,
+      "action": 70,
+      "missed_immediate_win": false,
+      "missed_unique_block": false
+    },
+    {
+      "ply": 3,
+      "action": 54,
+      "missed_immediate_win": false,
+      "missed_unique_block": false
+    },
+    {
+      "ply": 5,
+      "action": 84,
+      "missed_immediate_win": false,
+      "missed_unique_block": false
+    },
+    {
+      "ply": 7,
+      "action": 56,
+      "missed_immediate_win": false,
+      "missed_unique_block": false
+    },
+    {
+      "ply": 9,
+      "action": 38,
+      "missed_immediate_win": false,
+      "missed_unique_block": false
+    },
+    {
+      "ply": 11,
+      "action": 72,
+      "missed_immediate_win": false,
+      "missed_unique_block": false
+    },
+    {
+      "ply": 13,
+      "action": 42,
+      "missed_immediate_win": false,
+      "missed_unique_block": false
+    },
+    {
+      "ply": 15,
+      "action": 22,
+      "missed_immediate_win": false,
+      "missed_unique_block": false
+    },
+    {
+      "ply": 17,
+      "action": 40,
+      "missed_immediate_win": false,
+      "missed_unique_block": false
+    },
+    {
+      "ply": 19,
+      "action": 24,
+      "missed_immediate_win": false,
+      "missed_unique_block": false
+    }
+  ],
+  "model_time": {
+    "moves": 10,
+    "total_seconds": 9.20713709993288,
+    "mean_ms": 920.7137099932879,
+    "median_ms": 1031.7001499934122,
+    "max_ms": 1532.6006000395864
+  },
+  "rapfi_response_time": {
+    "moves": 10,
+    "total_seconds": 0.3791915997862816,
+    "mean_ms": 37.91915997862816,
+    "median_ms": 32.73750003427267,
+    "max_ms": 97.38310007378459
+  },
+  "missed_immediate_wins": 0,
+  "missed_unique_blocks": 0,
+  "wall_seconds": 9.65346059994772,
+  "finished_at": "2026-10-26T13:35:24.622963+00:00"
+}

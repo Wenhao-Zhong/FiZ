@@ -1,0 +1,84 @@
+{
+  "seed": 101,
+  "network": {
+    "size": 15,
+    "width": 128,
+    "layers": 6,
+    "heads": 4,
+    "ff": 256,
+    "value_head": "wdl"
+  },
+  "final_model": {
+    "file": "final.pt",
+    "bytes": 4108682,
+    "sha256": "c6d3a3dc870c4f7a10f89910b87982612d8eec40cf68c8628fd5b6156de0bcbb",
+    "source_checkpoint_sha256": "9297acb61636120126610464090dce21a18d76fb834d67311c5729727c881900"
+  },
+  "time": {
+    "started_epoch": 1792932721.31009,
+    "finished_epoch": 1793019857.779519,
+    "checkpoint_elapsed_seconds": 87135.22766542435,
+    "wall_clock_seconds": 87136.46944999695,
+    "training_window_seconds": 86401.45115756989,
+    "outage_seconds": 730.9960358142853,
+    "handoff_seconds": 4.02225661277771,
+    "excluded_seconds": 735.018292427063,
+    "clock": "Wall-clock training window includes development evaluation and checkpointing; only recorded outage and handoff time are excluded."
+  },
+  "trajectory_counters": {
+    "real_plies": 5071777,
+    "completed_games": 149292,
+    "optimizer_steps": 19313,
+    "network_evaluations": 519216514,
+    "simulations": 612397504
+  },
+  "additional_failed_work": {
+    "real_plies": 9264,
+    "completed_games": 259,
+    "optimizer_steps": 36,
+    "network_evaluations": 894461,
+    "simulations": 1077158,
+    "seconds_since_checkpoint": 151.52203909982927
+  },
+  "total_expended_counters": {
+    "real_plies": 5081041,
+    "completed_games": 149551,
+    "optimizer_steps": 19349,
+    "network_evaluations": 520110975,
+    "simulations": 613474662
+  },
+  "accounting": "Failure counters are additional expended work, not model trajectory. Failed-work seconds are already included in the training window; do not add them again.",
+  "runtime_amendment": {
+    "reason": "User authorized compensation for recorded downtime and handoff",
+    "original_runtime_hours": 26.0,
+    "effective_runtime_hours": 26.204171747896407,
+    "learning_parameters_unchanged": true,
+    "checkpoint_configuration_differences": [
+      "runtime_hours"
+    ]
+  },
+  "failure_events": [
+    {
+      "failure_utc": "2026-10-26T10:15:21.584515+00:00",
+      "error": "Windows atomic status replacement access denied",
+      "resume_checkpoint_sha256": "f56568a38b851ca3712858e8f80e91bb158def180e2406656406d55a8b1b42f0",
+      "uncheckpointed_cost": {
+        "real_plies": 9264,
+        "optimizer_steps": 36,
+        "completed_games": 259,
+        "network_evaluations": 894461,
+        "simulations": 1077158,
+        "seconds_since_checkpoint": 151.52203909982927
+      }
+    }
+  ],
+  "provenance_sha256": {
+    "budget.json": "9eb8be62fffaee2a7dee26ee42bb754c0613a0a3538d45dff65b6a92a656feca",
+    "config.json": "b9f7b68367c91200ca4ab9c824681e19d52b92224ab896f9820d349eaf7b0093",
+    "plan.json": "6a53deca43de419c926c35fc4e77f6355c73e5ca32f267a798c8c49d59921171",
+    "runtime_amendment.json": "45e06549debb9cee9680b7f562c6b2f62a385ef09d7683d9c09a59b44f342989",
+    "failure_costs.json": "771a3ecf9d4eb65475a9d99c4543dfa049de5f8544b21ddcb2bd1b1f08356d0e"
+  },
+  "model_name": "FiZ",
+  "model_name_expanded": "Five-in-a-row Zero"
+}

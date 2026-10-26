@@ -1,0 +1,17 @@
+{
+  "independently_replayed_games": 36,
+  "png_count": 36,
+  "svg_count": 36,
+  "english_diagrams": true,
+  "all_move_numbers_present_in_svg": true,
+  "zip_crc_passed": true,
+  "frozen_files_unchanged": 19,
+  "checkpoint_sha256": "9297acb61636120126610464090dce21a18d76fb834d67311c5729727c881900",
+  "runner_exited": true,
+  "remaining_rapfi_processes": [],
+  "rendering_verified": true,
+  "model_name": "FiZ",
+  "simplified_headers": true,
+  "bottom_annotations": false,
+  "renderer_sha256": "9411eda1685b658dfc07653f1f5232ab4a0388771a731eac08287f3153539a36"
+}

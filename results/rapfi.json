@@ -1,0 +1,22 @@
+{
+  "engine": {
+    "name": "Rapfi",
+    "repository": "https://github.com/dotb1ue/rapfi",
+    "commit": "1387d11312190ec66665d361ff07a7c70221b78a"
+  },
+  "networks": {
+    "repository": "https://github.com/dhbloo/rapfi-networks",
+    "commit": "7eeb19b55219a48138756293f92211a1539bab4d"
+  },
+  "threads": 1,
+  "thinking_limit_ms": 100,
+  "pondering": false,
+  "fresh_process_per_game": true,
+  "sha256": {
+    "src/az_gomoku/rapfi.py": "cfd023d140cfcae9f21d92c3a08b31dd9ca3f0bd6a42a01f21438dd27668ae72",
+    "third_party/rapfi/build/Release/pbrain-rapfi.exe": "e6cbf7493ea3c6792556ee9c132d6bd98323ac8e11e14183d3a731a1d1c2d44a",
+    "runs/rapfi_feasibility_20261024/config.toml": "17f0bb2ce4b52556b462a092f58a2cd70b7928e451ba27f6c0050bfd01dee8b3",
+    "third_party/rapfi/Networks/mix9svq/mix9svqfreestyle_bsmix.bin.lz4": "6bc0d1b0ff8e1d857f7f412923cd458f38f1a435087c91ae71fec3676c23ef62",
+    "third_party/rapfi/Networks/classical/model260809.bin": "8d4f518c58f9c7abe017de383a87d2d7506c62936ea5188004b7eb1780b99393"
+  }
+}

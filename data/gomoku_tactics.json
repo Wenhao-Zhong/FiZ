@@ -1,0 +1,7810 @@
+{
+  "version": 1,
+  "rule_id": "Freestyle-Gomoku15-v1",
+  "seed": 112358,
+  "per_kind": 200,
+  "use": "evaluation_only_never_training",
+  "entries": [
+    {
+      "id": "immediate_win_0000",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 0,
+      "history": [
+        170,
+        133,
+        171,
+        18,
+        173,
+        118,
+        172,
+        169
+      ],
+      "correct_actions": [
+        174
+      ]
+    },
+    {
+      "id": "immediate_win_0001",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 0,
+      "history": [
+        15,
+        19,
+        99,
+        17,
+        224,
+        18,
+        205,
+        16,
+        51
+      ],
+      "correct_actions": [
+        20
+      ]
+    },
+    {
+      "id": "immediate_win_0002",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 1,
+      "history": [
+        127,
+        67,
+        112,
+        101,
+        97,
+        180,
+        82,
+        77
+      ],
+      "correct_actions": [
+        142
+      ]
+    },
+    {
+      "id": "immediate_win_0003",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 1,
+      "history": [
+        208,
+        37,
+        56,
+        67,
+        70,
+        52,
+        22,
+        82,
+        61
+      ],
+      "correct_actions": [
+        97
+      ]
+    },
+    {
+      "id": "immediate_win_0004",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 2,
+      "history": [
+        177,
+        113,
+        161,
+        74,
+        193,
+        96,
+        145,
+        129
+      ],
+      "correct_actions": [
+        209
+      ]
+    },
+    {
+      "id": "immediate_win_0005",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 2,
+      "history": [
+        50,
+        98,
+        204,
+        114,
+        65,
+        66,
+        70,
+        82,
+        222
+      ],
+      "correct_actions": [
+        130
+      ]
+    },
+    {
+      "id": "immediate_win_0006",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 3,
+      "history": [
+        122,
+        80,
+        108,
+        210,
+        94,
+        146,
+        136,
+        192
+      ],
+      "correct_actions": [
+        150
+      ]
+    },
+    {
+      "id": "immediate_win_0007",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 3,
+      "history": [
+        222,
+        102,
+        94,
+        130,
+        174,
+        88,
+        165,
+        116,
+        74
+      ],
+      "correct_actions": [
+        144
+      ]
+    },
+    {
+      "id": "immediate_win_0008",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 0,
+      "history": [
+        110,
+        107,
+        108,
+        50,
+        109,
+        24,
+        111,
+        83
+      ],
+      "correct_actions": [
+        112
+      ]
+    },
+    {
+      "id": "immediate_win_0009",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 0,
+      "history": [
+        188,
+        191,
+        9,
+        192,
+        110,
+        189,
+        216,
+        190,
+        101
+      ],
+      "correct_actions": [
+        193
+      ]
+    },
+    {
+      "id": "immediate_win_0010",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 1,
+      "history": [
+        52,
+        7,
+        37,
+        190,
+        22,
+        95,
+        67,
+        155
+      ],
+      "correct_actions": [
+        82
+      ]
+    },
+    {
+      "id": "immediate_win_0011",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 1,
+      "history": [
+        208,
+        165,
+        105,
+        135,
+        24,
+        120,
+        169,
+        150,
+        174
+      ],
+      "correct_actions": [
+        180
+      ]
+    },
+    {
+      "id": "immediate_win_0012",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 2,
+      "history": [
+        173,
+        125,
+        157,
+        208,
+        189,
+        71,
+        141,
+        206
+      ],
+      "correct_actions": [
+        205
+      ]
+    },
+    {
+      "id": "immediate_win_0013",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 2,
+      "history": [
+        208,
+        99,
+        67,
+        83,
+        142,
+        131,
+        141,
+        115,
+        184
+      ],
+      "correct_actions": [
+        147
+      ]
+    },
+    {
+      "id": "immediate_win_0014",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 3,
+      "history": [
+        97,
+        47,
+        125,
+        48,
+        139,
+        83,
+        111,
+        110
+      ],
+      "correct_actions": [
+        153
+      ]
+    },
+    {
+      "id": "immediate_win_0015",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 3,
+      "history": [
+        50,
+        110,
+        114,
+        96,
+        99,
+        124,
+        220,
+        82,
+        68
+      ],
+      "correct_actions": [
+        138
+      ]
+    },
+    {
+      "id": "immediate_win_0016",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 0,
+      "history": [
+        93,
+        90,
+        91,
+        179,
+        92,
+        58,
+        94,
+        43
+      ],
+      "correct_actions": [
+        95
+      ]
+    },
+    {
+      "id": "immediate_win_0017",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 0,
+      "history": [
+        178,
+        87,
+        84,
+        85,
+        15,
+        86,
+        79,
+        88,
+        141
+      ],
+      "correct_actions": [
+        89
+      ]
+    },
+    {
+      "id": "immediate_win_0018",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 1,
+      "history": [
+        78,
+        190,
+        93,
+        143,
+        108,
+        48,
+        63,
+        49
+      ],
+      "correct_actions": [
+        123
+      ]
+    },
+    {
+      "id": "immediate_win_0019",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 1,
+      "history": [
+        220,
+        173,
+        3,
+        143,
+        105,
+        188,
+        128,
+        158,
+        204
+      ],
+      "correct_actions": [
+        203
+      ]
+    },
+    {
+      "id": "immediate_win_0020",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 2,
+      "history": [
+        142,
+        68,
+        110,
+        2,
+        158,
+        94,
+        126,
+        150
+      ],
+      "correct_actions": [
+        174
+      ]
+    },
+    {
+      "id": "immediate_win_0021",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 2,
+      "history": [
+        77,
+        141,
+        162,
+        93,
+        6,
+        109,
+        82,
+        125,
+        148
+      ],
+      "correct_actions": [
+        157
+      ]
+    },
+    {
+      "id": "immediate_win_0022",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 3,
+      "history": [
+        185,
+        79,
+        143,
+        201,
+        171,
+        103,
+        157,
+        129
+      ],
+      "correct_actions": [
+        199
+      ]
+    },
+    {
+      "id": "immediate_win_0023",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 3,
+      "history": [
+        25,
+        39,
+        16,
+        67,
+        69,
+        53,
+        124,
+        81,
+        33
+      ],
+      "correct_actions": [
+        95
+      ]
+    },
+    {
+      "id": "immediate_win_0024",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 0,
+      "history": [
+        113,
+        27,
+        110,
+        93,
+        112,
+        218,
+        111,
+        109
+      ],
+      "correct_actions": [
+        114
+      ]
+    },
+    {
+      "id": "immediate_win_0025",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 0,
+      "history": [
+        160,
+        143,
+        142,
+        145,
+        27,
+        146,
+        109,
+        144,
+        43
+      ],
+      "correct_actions": [
+        147
+      ]
+    },
+    {
+      "id": "immediate_win_0026",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 1,
+      "history": [
+        107,
+        72,
+        77,
+        115,
+        122,
+        62,
+        92,
+        113
+      ],
+      "correct_actions": [
+        137
+      ]
+    },
+    {
+      "id": "immediate_win_0027",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 1,
+      "history": [
+        112,
+        119,
+        114,
+        149,
+        110,
+        164,
+        95,
+        134,
+        104
+      ],
+      "correct_actions": [
+        179
+      ]
+    },
+    {
+      "id": "immediate_win_0028",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 2,
+      "history": [
+        205,
+        86,
+        173,
+        141,
+        157,
+        68,
+        189,
+        150
+      ],
+      "correct_actions": [
+        221
+      ]
+    },
+    {
+      "id": "immediate_win_0029",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 2,
+      "history": [
+        4,
+        68,
+        36,
+        100,
+        5,
+        84,
+        164,
+        52,
+        125
+      ],
+      "correct_actions": [
+        116
+      ]
+    },
+    {
+      "id": "immediate_win_0030",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 3,
+      "history": [
+        101,
+        63,
+        115,
+        10,
+        129,
+        181,
+        143,
+        87
+      ],
+      "correct_actions": [
+        157
+      ]
+    },
+    {
+      "id": "immediate_win_0031",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 3,
+      "history": [
+        22,
+        187,
+        157,
+        173,
+        145,
+        159,
+        25,
+        201,
+        219
+      ],
+      "correct_actions": [
+        215
+      ]
+    },
+    {
+      "id": "immediate_win_0032",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 0,
+      "history": [
+        65,
+        119,
+        67,
+        37,
+        66,
+        63,
+        64,
+        36
+      ],
+      "correct_actions": [
+        68
+      ]
+    },
+    {
+      "id": "immediate_win_0033",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 0,
+      "history": [
+        156,
+        157,
+        187,
+        159,
+        23,
+        158,
+        112,
+        160,
+        21
+      ],
+      "correct_actions": [
+        161
+      ]
+    },
+    {
+      "id": "immediate_win_0034",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 1,
+      "history": [
+        46,
+        16,
+        76,
+        115,
+        31,
+        92,
+        61,
+        144
+      ],
+      "correct_actions": [
+        91
+      ]
+    },
+    {
+      "id": "immediate_win_0035",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 1,
+      "history": [
+        165,
+        149,
+        134,
+        194,
+        110,
+        164,
+        138,
+        179,
+        73
+      ],
+      "correct_actions": [
+        209
+      ]
+    },
+    {
+      "id": "immediate_win_0036",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 2,
+      "history": [
+        127,
+        63,
+        95,
+        57,
+        79,
+        178,
+        111,
+        14
+      ],
+      "correct_actions": [
+        143
+      ]
+    },
+    {
+      "id": "immediate_win_0037",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 2,
+      "history": [
+        53,
+        69,
+        210,
+        117,
+        35,
+        101,
+        188,
+        85,
+        72
+      ],
+      "correct_actions": [
+        133
+      ]
+    },
+    {
+      "id": "immediate_win_0038",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 3,
+      "history": [
+        97,
+        32,
+        125,
+        83,
+        139,
+        17,
+        111,
+        67
+      ],
+      "correct_actions": [
+        153
+      ]
+    },
+    {
+      "id": "immediate_win_0039",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 3,
+      "history": [
+        59,
+        38,
+        122,
+        80,
+        127,
+        66,
+        113,
+        52,
+        24
+      ],
+      "correct_actions": [
+        94
+      ]
+    },
+    {
+      "id": "immediate_win_0040",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 0,
+      "history": [
+        114,
+        187,
+        117,
+        28,
+        116,
+        39,
+        115,
+        113
+      ],
+      "correct_actions": [
+        118
+      ]
+    },
+    {
+      "id": "immediate_win_0041",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 0,
+      "history": [
+        213,
+        23,
+        21,
+        25,
+        224,
+        24,
+        160,
+        22,
+        127
+      ],
+      "correct_actions": [
+        26
+      ]
+    },
+    {
+      "id": "immediate_win_0042",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 1,
+      "history": [
+        199,
+        61,
+        184,
+        6,
+        169,
+        150,
+        154,
+        139
+      ],
+      "correct_actions": [
+        214
+      ]
+    },
+    {
+      "id": "immediate_win_0043",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 1,
+      "history": [
+        203,
+        64,
+        34,
+        94,
+        151,
+        79,
+        215,
+        49,
+        174
+      ],
+      "correct_actions": [
+        109
+      ]
+    },
+    {
+      "id": "immediate_win_0044",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 2,
+      "history": [
+        51,
+        149,
+        67,
+        3,
+        35,
+        173,
+        19,
+        204
+      ],
+      "correct_actions": [
+        83
+      ]
+    },
+    {
+      "id": "immediate_win_0045",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 2,
+      "history": [
+        96,
+        188,
+        169,
+        156,
+        90,
+        172,
+        26,
+        204,
+        140
+      ],
+      "correct_actions": [
+        220
+      ]
+    },
+    {
+      "id": "immediate_win_0046",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 3,
+      "history": [
+        181,
+        87,
+        139,
+        206,
+        153,
+        125,
+        167,
+        103
+      ],
+      "correct_actions": [
+        195
+      ]
+    },
+    {
+      "id": "immediate_win_0047",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 3,
+      "history": [
+        173,
+        123,
+        67,
+        95,
+        142,
+        109,
+        127,
+        81,
+        118
+      ],
+      "correct_actions": [
+        137
+      ]
+    },
+    {
+      "id": "immediate_win_0048",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 0,
+      "history": [
+        86,
+        175,
+        87,
+        75,
+        85,
+        18,
+        88,
+        84
+      ],
+      "correct_actions": [
+        89
+      ]
+    },
+    {
+      "id": "immediate_win_0049",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 0,
+      "history": [
+        91,
+        94,
+        179,
+        92,
+        202,
+        93,
+        33,
+        95,
+        1
+      ],
+      "correct_actions": [
+        96
+      ]
+    },
+    {
+      "id": "immediate_win_0050",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 1,
+      "history": [
+        193,
+        100,
+        178,
+        148,
+        208,
+        137,
+        163,
+        50
+      ],
+      "correct_actions": [
+        223
+      ]
+    },
+    {
+      "id": "immediate_win_0051",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 1,
+      "history": [
+        10,
+        191,
+        131,
+        146,
+        132,
+        161,
+        3,
+        176,
+        74
+      ],
+      "correct_actions": [
+        206
+      ]
+    },
+    {
+      "id": "immediate_win_0052",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 2,
+      "history": [
+        83,
+        19,
+        67,
+        98,
+        35,
+        49,
+        51,
+        29
+      ],
+      "correct_actions": [
+        99
+      ]
+    },
+    {
+      "id": "immediate_win_0053",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 2,
+      "history": [
+        93,
+        141,
+        148,
+        125,
+        99,
+        157,
+        5,
+        109,
+        46
+      ],
+      "correct_actions": [
+        173
+      ]
+    },
+    {
+      "id": "immediate_win_0054",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 3,
+      "history": [
+        154,
+        169,
+        182,
+        36,
+        196,
+        140,
+        168,
+        122
+      ],
+      "correct_actions": [
+        210
+      ]
+    },
+    {
+      "id": "immediate_win_0055",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 3,
+      "history": [
+        86,
+        147,
+        90,
+        175,
+        185,
+        189,
+        133,
+        161,
+        87
+      ],
+      "correct_actions": [
+        203
+      ]
+    },
+    {
+      "id": "immediate_win_0056",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 0,
+      "history": [
+        35,
+        34,
+        38,
+        31,
+        36,
+        208,
+        37,
+        148
+      ],
+      "correct_actions": [
+        39
+      ]
+    },
+    {
+      "id": "immediate_win_0057",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 0,
+      "history": [
+        66,
+        20,
+        17,
+        22,
+        213,
+        21,
+        19,
+        23,
+        49
+      ],
+      "correct_actions": [
+        24
+      ]
+    },
+    {
+      "id": "immediate_win_0058",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 1,
+      "history": [
+        145,
+        115,
+        130,
+        78,
+        160,
+        81,
+        175,
+        83
+      ],
+      "correct_actions": [
+        190
+      ]
+    },
+    {
+      "id": "immediate_win_0059",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 1,
+      "history": [
+        87,
+        64,
+        58,
+        19,
+        3,
+        34,
+        4,
+        49,
+        204
+      ],
+      "correct_actions": [
+        79
+      ]
+    },
+    {
+      "id": "immediate_win_0060",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 2,
+      "history": [
+        154,
+        106,
+        170,
+        79,
+        138,
+        99,
+        122,
+        181
+      ],
+      "correct_actions": [
+        186
+      ]
+    },
+    {
+      "id": "immediate_win_0061",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 2,
+      "history": [
+        76,
+        92,
+        32,
+        140,
+        4,
+        108,
+        186,
+        124,
+        114
+      ],
+      "correct_actions": [
+        156
+      ]
+    },
+    {
+      "id": "immediate_win_0062",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 3,
+      "history": [
+        170,
+        142,
+        156,
+        29,
+        184,
+        53,
+        198,
+        134
+      ],
+      "correct_actions": [
+        212
+      ]
+    },
+    {
+      "id": "immediate_win_0063",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 3,
+      "history": [
+        89,
+        131,
+        62,
+        117,
+        210,
+        103,
+        51,
+        145,
+        165
+      ],
+      "correct_actions": [
+        159
+      ]
+    },
+    {
+      "id": "immediate_win_0064",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 0,
+      "history": [
+        81,
+        16,
+        82,
+        80,
+        83,
+        199,
+        84,
+        47
+      ],
+      "correct_actions": [
+        85
+      ]
+    },
+    {
+      "id": "immediate_win_0065",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 0,
+      "history": [
+        57,
+        86,
+        84,
+        87,
+        3,
+        88,
+        132,
+        85,
+        195
+      ],
+      "correct_actions": [
+        89
+      ]
+    },
+    {
+      "id": "immediate_win_0066",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 1,
+      "history": [
+        192,
+        147,
+        162,
+        88,
+        177,
+        156,
+        207,
+        119
+      ],
+      "correct_actions": [
+        222
+      ]
+    },
+    {
+      "id": "immediate_win_0067",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 1,
+      "history": [
+        176,
+        67,
+        215,
+        52,
+        78,
+        22,
+        131,
+        37,
+        7
+      ],
+      "correct_actions": [
+        82
+      ]
+    },
+    {
+      "id": "immediate_win_0068",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 2,
+      "history": [
+        191,
+        55,
+        175,
+        143,
+        207,
+        108,
+        159,
+        122
+      ],
+      "correct_actions": [
+        223
+      ]
+    },
+    {
+      "id": "immediate_win_0069",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 2,
+      "history": [
+        208,
+        70,
+        111,
+        54,
+        38,
+        102,
+        113,
+        86,
+        158
+      ],
+      "correct_actions": [
+        118
+      ]
+    },
+    {
+      "id": "immediate_win_0070",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 3,
+      "history": [
+        147,
+        181,
+        175,
+        48,
+        161,
+        2,
+        189,
+        133
+      ],
+      "correct_actions": [
+        203
+      ]
+    },
+    {
+      "id": "immediate_win_0071",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 3,
+      "history": [
+        33,
+        108,
+        89,
+        94,
+        138,
+        122,
+        80,
+        136,
+        82
+      ],
+      "correct_actions": [
+        150
+      ]
+    },
+    {
+      "id": "immediate_win_0072",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 0,
+      "history": [
+        220,
+        68,
+        221,
+        124,
+        222,
+        87,
+        219,
+        218
+      ],
+      "correct_actions": [
+        223
+      ]
+    },
+    {
+      "id": "immediate_win_0073",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 0,
+      "history": [
+        168,
+        97,
+        172,
+        96,
+        43,
+        98,
+        94,
+        95,
+        221
+      ],
+      "correct_actions": [
+        99
+      ]
+    },
+    {
+      "id": "immediate_win_0074",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 1,
+      "history": [
+        67,
+        148,
+        82,
+        32,
+        52,
+        37,
+        97,
+        110
+      ],
+      "correct_actions": [
+        112
+      ]
+    },
+    {
+      "id": "immediate_win_0075",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 1,
+      "history": [
+        112,
+        157,
+        21,
+        172,
+        212,
+        127,
+        75,
+        142,
+        208
+      ],
+      "correct_actions": [
+        187
+      ]
+    },
+    {
+      "id": "immediate_win_0076",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 2,
+      "history": [
+        92,
+        113,
+        108,
+        94,
+        124,
+        76,
+        140,
+        110
+      ],
+      "correct_actions": [
+        156
+      ]
+    },
+    {
+      "id": "immediate_win_0077",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 2,
+      "history": [
+        118,
+        161,
+        14,
+        177,
+        129,
+        145,
+        151,
+        193,
+        178
+      ],
+      "correct_actions": [
+        209
+      ]
+    },
+    {
+      "id": "immediate_win_0078",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 3,
+      "history": [
+        63,
+        215,
+        77,
+        168,
+        49,
+        86,
+        35,
+        21
+      ],
+      "correct_actions": [
+        91
+      ]
+    },
+    {
+      "id": "immediate_win_0079",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 3,
+      "history": [
+        21,
+        63,
+        85,
+        49,
+        169,
+        35,
+        191,
+        77,
+        43
+      ],
+      "correct_actions": [
+        91
+      ]
+    },
+    {
+      "id": "immediate_win_0080",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 0,
+      "history": [
+        125,
+        111,
+        124,
+        122,
+        123,
+        11,
+        126,
+        218
+      ],
+      "correct_actions": [
+        127
+      ]
+    },
+    {
+      "id": "immediate_win_0081",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 0,
+      "history": [
+        46,
+        214,
+        141,
+        215,
+        61,
+        213,
+        211,
+        212,
+        114
+      ],
+      "correct_actions": [
+        216
+      ]
+    },
+    {
+      "id": "immediate_win_0082",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 1,
+      "history": [
+        198,
+        101,
+        153,
+        19,
+        183,
+        152,
+        168,
+        138
+      ],
+      "correct_actions": [
+        213
+      ]
+    },
+    {
+      "id": "immediate_win_0083",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 1,
+      "history": [
+        97,
+        160,
+        218,
+        145,
+        100,
+        115,
+        156,
+        130,
+        196
+      ],
+      "correct_actions": [
+        175
+      ]
+    },
+    {
+      "id": "immediate_win_0084",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 2,
+      "history": [
+        139,
+        128,
+        107,
+        113,
+        91,
+        109,
+        123,
+        75
+      ],
+      "correct_actions": [
+        155
+      ]
+    },
+    {
+      "id": "immediate_win_0085",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 2,
+      "history": [
+        1,
+        17,
+        204,
+        65,
+        77,
+        49,
+        83,
+        33,
+        185
+      ],
+      "correct_actions": [
+        81
+      ]
+    },
+    {
+      "id": "immediate_win_0086",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 3,
+      "history": [
+        162,
+        195,
+        176,
+        32,
+        190,
+        84,
+        204,
+        148
+      ],
+      "correct_actions": [
+        218
+      ]
+    },
+    {
+      "id": "immediate_win_0087",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 3,
+      "history": [
+        64,
+        37,
+        23,
+        79,
+        167,
+        65,
+        113,
+        51,
+        212
+      ],
+      "correct_actions": [
+        93
+      ]
+    },
+    {
+      "id": "immediate_win_0088",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 0,
+      "history": [
+        81,
+        49,
+        83,
+        80,
+        82,
+        168,
+        84,
+        200
+      ],
+      "correct_actions": [
+        85
+      ]
+    },
+    {
+      "id": "immediate_win_0089",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 0,
+      "history": [
+        188,
+        158,
+        53,
+        159,
+        156,
+        157,
+        133,
+        160,
+        138
+      ],
+      "correct_actions": [
+        161
+      ]
+    },
+    {
+      "id": "immediate_win_0090",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 1,
+      "history": [
+        94,
+        216,
+        64,
+        93,
+        79,
+        49,
+        109,
+        132
+      ],
+      "correct_actions": [
+        124
+      ]
+    },
+    {
+      "id": "immediate_win_0091",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 1,
+      "history": [
+        44,
+        172,
+        129,
+        187,
+        97,
+        157,
+        142,
+        202,
+        57
+      ],
+      "correct_actions": [
+        217
+      ]
+    },
+    {
+      "id": "immediate_win_0092",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 2,
+      "history": [
+        71,
+        160,
+        55,
+        117,
+        103,
+        39,
+        87,
+        129
+      ],
+      "correct_actions": [
+        119
+      ]
+    },
+    {
+      "id": "immediate_win_0093",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 2,
+      "history": [
+        211,
+        174,
+        5,
+        158,
+        66,
+        142,
+        126,
+        190,
+        68
+      ],
+      "correct_actions": [
+        206
+      ]
+    },
+    {
+      "id": "immediate_win_0094",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 3,
+      "history": [
+        163,
+        4,
+        177,
+        7,
+        205,
+        149,
+        191,
+        99
+      ],
+      "correct_actions": [
+        219
+      ]
+    },
+    {
+      "id": "immediate_win_0095",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 3,
+      "history": [
+        98,
+        144,
+        88,
+        102,
+        154,
+        130,
+        131,
+        116,
+        119
+      ],
+      "correct_actions": [
+        158
+      ]
+    },
+    {
+      "id": "immediate_win_0096",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 0,
+      "history": [
+        2,
+        0,
+        3,
+        190,
+        1,
+        82,
+        4,
+        166
+      ],
+      "correct_actions": [
+        5
+      ]
+    },
+    {
+      "id": "immediate_win_0097",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 0,
+      "history": [
+        182,
+        221,
+        200,
+        223,
+        214,
+        220,
+        215,
+        222,
+        219
+      ],
+      "correct_actions": [
+        224
+      ]
+    },
+    {
+      "id": "immediate_win_0098",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 1,
+      "history": [
+        63,
+        146,
+        33,
+        43,
+        48,
+        3,
+        18,
+        214
+      ],
+      "correct_actions": [
+        78
+      ]
+    },
+    {
+      "id": "immediate_win_0099",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 1,
+      "history": [
+        217,
+        83,
+        38,
+        68,
+        15,
+        53,
+        56,
+        98,
+        122
+      ],
+      "correct_actions": [
+        113
+      ]
+    },
+    {
+      "id": "immediate_win_0100",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 2,
+      "history": [
+        32,
+        132,
+        80,
+        104,
+        64,
+        202,
+        48,
+        16
+      ],
+      "correct_actions": [
+        96
+      ]
+    },
+    {
+      "id": "immediate_win_0101",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 2,
+      "history": [
+        82,
+        98,
+        68,
+        114,
+        199,
+        146,
+        219,
+        130,
+        148
+      ],
+      "correct_actions": [
+        162
+      ]
+    },
+    {
+      "id": "immediate_win_0102",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 3,
+      "history": [
+        82,
+        124,
+        40,
+        4,
+        68,
+        26,
+        54,
+        107
+      ],
+      "correct_actions": [
+        96
+      ]
+    },
+    {
+      "id": "immediate_win_0103",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 3,
+      "history": [
+        50,
+        131,
+        91,
+        103,
+        54,
+        117,
+        130,
+        145,
+        89
+      ],
+      "correct_actions": [
+        159
+      ]
+    },
+    {
+      "id": "immediate_win_0104",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 0,
+      "history": [
+        170,
+        123,
+        172,
+        169,
+        171,
+        67,
+        173,
+        26
+      ],
+      "correct_actions": [
+        174
+      ]
+    },
+    {
+      "id": "immediate_win_0105",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 0,
+      "history": [
+        78,
+        84,
+        83,
+        87,
+        8,
+        85,
+        37,
+        86,
+        82
+      ],
+      "correct_actions": [
+        88
+      ]
+    },
+    {
+      "id": "immediate_win_0106",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 1,
+      "history": [
+        63,
+        20,
+        78,
+        129,
+        33,
+        18,
+        48,
+        86
+      ],
+      "correct_actions": [
+        93
+      ]
+    },
+    {
+      "id": "immediate_win_0107",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 1,
+      "history": [
+        144,
+        187,
+        7,
+        142,
+        77,
+        157,
+        43,
+        172,
+        127
+      ],
+      "correct_actions": [
+        202
+      ]
+    },
+    {
+      "id": "immediate_win_0108",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 2,
+      "history": [
+        94,
+        46,
+        62,
+        45,
+        110,
+        125,
+        78,
+        199
+      ],
+      "correct_actions": [
+        126
+      ]
+    },
+    {
+      "id": "immediate_win_0109",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 2,
+      "history": [
+        173,
+        156,
+        3,
+        140,
+        136,
+        172,
+        124,
+        188,
+        78
+      ],
+      "correct_actions": [
+        204
+      ]
+    },
+    {
+      "id": "immediate_win_0110",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 3,
+      "history": [
+        159,
+        136,
+        131,
+        208,
+        173,
+        52,
+        145,
+        117
+      ],
+      "correct_actions": [
+        187
+      ]
+    },
+    {
+      "id": "immediate_win_0111",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 3,
+      "history": [
+        176,
+        141,
+        151,
+        113,
+        91,
+        155,
+        163,
+        127,
+        99
+      ],
+      "correct_actions": [
+        169
+      ]
+    },
+    {
+      "id": "immediate_win_0112",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 0,
+      "history": [
+        25,
+        18,
+        24,
+        1,
+        22,
+        21,
+        23,
+        65
+      ],
+      "correct_actions": [
+        26
+      ]
+    },
+    {
+      "id": "immediate_win_0113",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 0,
+      "history": [
+        77,
+        69,
+        13,
+        67,
+        150,
+        70,
+        66,
+        68,
+        19
+      ],
+      "correct_actions": [
+        71
+      ]
+    },
+    {
+      "id": "immediate_win_0114",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 1,
+      "history": [
+        87,
+        70,
+        72,
+        222,
+        57,
+        45,
+        102,
+        42
+      ],
+      "correct_actions": [
+        117
+      ]
+    },
+    {
+      "id": "immediate_win_0115",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 1,
+      "history": [
+        60,
+        62,
+        156,
+        77,
+        159,
+        47,
+        161,
+        32,
+        17
+      ],
+      "correct_actions": [
+        92
+      ]
+    },
+    {
+      "id": "immediate_win_0116",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 2,
+      "history": [
+        154,
+        198,
+        138,
+        165,
+        122,
+        199,
+        170,
+        106
+      ],
+      "correct_actions": [
+        186
+      ]
+    },
+    {
+      "id": "immediate_win_0117",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 2,
+      "history": [
+        221,
+        71,
+        82,
+        23,
+        7,
+        39,
+        143,
+        55,
+        162
+      ],
+      "correct_actions": [
+        87
+      ]
+    },
+    {
+      "id": "immediate_win_0118",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 3,
+      "history": [
+        94,
+        52,
+        66,
+        26,
+        108,
+        154,
+        80,
+        157
+      ],
+      "correct_actions": [
+        122
+      ]
+    },
+    {
+      "id": "immediate_win_0119",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 3,
+      "history": [
+        8,
+        111,
+        83,
+        139,
+        168,
+        97,
+        201,
+        125,
+        52
+      ],
+      "correct_actions": [
+        153
+      ]
+    },
+    {
+      "id": "immediate_win_0120",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 0,
+      "history": [
+        140,
+        84,
+        141,
+        137,
+        138,
+        199,
+        139,
+        109
+      ],
+      "correct_actions": [
+        142
+      ]
+    },
+    {
+      "id": "immediate_win_0121",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 0,
+      "history": [
+        217,
+        100,
+        62,
+        102,
+        99,
+        103,
+        213,
+        101,
+        199
+      ],
+      "correct_actions": [
+        104
+      ]
+    },
+    {
+      "id": "immediate_win_0122",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 1,
+      "history": [
+        136,
+        32,
+        181,
+        82,
+        166,
+        121,
+        151,
+        148
+      ],
+      "correct_actions": [
+        196
+      ]
+    },
+    {
+      "id": "immediate_win_0123",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 1,
+      "history": [
+        4,
+        121,
+        85,
+        91,
+        206,
+        76,
+        61,
+        106,
+        32
+      ],
+      "correct_actions": [
+        136
+      ]
+    },
+    {
+      "id": "immediate_win_0124",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 2,
+      "history": [
+        113,
+        189,
+        97,
+        81,
+        129,
+        194,
+        145,
+        83
+      ],
+      "correct_actions": [
+        161
+      ]
+    },
+    {
+      "id": "immediate_win_0125",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 2,
+      "history": [
+        190,
+        193,
+        129,
+        145,
+        179,
+        161,
+        178,
+        177,
+        159
+      ],
+      "correct_actions": [
+        209
+      ]
+    },
+    {
+      "id": "immediate_win_0126",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 3,
+      "history": [
+        63,
+        126,
+        49,
+        7,
+        35,
+        33,
+        21,
+        128
+      ],
+      "correct_actions": [
+        77
+      ]
+    },
+    {
+      "id": "immediate_win_0127",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 3,
+      "history": [
+        70,
+        201,
+        145,
+        173,
+        32,
+        187,
+        208,
+        159,
+        50
+      ],
+      "correct_actions": [
+        215
+      ]
+    },
+    {
+      "id": "immediate_win_0128",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 0,
+      "history": [
+        33,
+        30,
+        32,
+        28,
+        34,
+        81,
+        31,
+        52
+      ],
+      "correct_actions": [
+        35
+      ]
+    },
+    {
+      "id": "immediate_win_0129",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 0,
+      "history": [
+        1,
+        183,
+        180,
+        181,
+        78,
+        184,
+        108,
+        182,
+        52
+      ],
+      "correct_actions": [
+        185
+      ]
+    },
+    {
+      "id": "immediate_win_0130",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 1,
+      "history": [
+        62,
+        99,
+        47,
+        87,
+        32,
+        2,
+        17,
+        147
+      ],
+      "correct_actions": [
+        77
+      ]
+    },
+    {
+      "id": "immediate_win_0131",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 1,
+      "history": [
+        7,
+        205,
+        109,
+        190,
+        145,
+        160,
+        88,
+        175,
+        12
+      ],
+      "correct_actions": [
+        220
+      ]
+    },
+    {
+      "id": "immediate_win_0132",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 2,
+      "history": [
+        157,
+        49,
+        205,
+        6,
+        173,
+        202,
+        189,
+        141
+      ],
+      "correct_actions": [
+        221
+      ]
+    },
+    {
+      "id": "immediate_win_0133",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 2,
+      "history": [
+        147,
+        123,
+        103,
+        139,
+        52,
+        107,
+        75,
+        91,
+        146
+      ],
+      "correct_actions": [
+        155
+      ]
+    },
+    {
+      "id": "immediate_win_0134",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 3,
+      "history": [
+        203,
+        145,
+        161,
+        34,
+        189,
+        144,
+        175,
+        147
+      ],
+      "correct_actions": [
+        217
+      ]
+    },
+    {
+      "id": "immediate_win_0135",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 3,
+      "history": [
+        187,
+        153,
+        16,
+        125,
+        111,
+        139,
+        58,
+        167,
+        70
+      ],
+      "correct_actions": [
+        181
+      ]
+    },
+    {
+      "id": "immediate_win_0136",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 0,
+      "history": [
+        85,
+        209,
+        82,
+        81,
+        84,
+        6,
+        83,
+        171
+      ],
+      "correct_actions": [
+        86
+      ]
+    },
+    {
+      "id": "immediate_win_0137",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 0,
+      "history": [
+        57,
+        217,
+        126,
+        216,
+        215,
+        218,
+        119,
+        219,
+        18
+      ],
+      "correct_actions": [
+        220
+      ]
+    },
+    {
+      "id": "immediate_win_0138",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 1,
+      "history": [
+        126,
+        12,
+        111,
+        214,
+        96,
+        66,
+        81,
+        48
+      ],
+      "correct_actions": [
+        141
+      ]
+    },
+    {
+      "id": "immediate_win_0139",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 1,
+      "history": [
+        199,
+        126,
+        96,
+        156,
+        125,
+        141,
+        30,
+        111,
+        19
+      ],
+      "correct_actions": [
+        171
+      ]
+    },
+    {
+      "id": "immediate_win_0140",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 2,
+      "history": [
+        24,
+        8,
+        72,
+        209,
+        40,
+        112,
+        56,
+        45
+      ],
+      "correct_actions": [
+        88
+      ]
+    },
+    {
+      "id": "immediate_win_0141",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 2,
+      "history": [
+        43,
+        73,
+        9,
+        57,
+        196,
+        25,
+        198,
+        41,
+        103
+      ],
+      "correct_actions": [
+        89
+      ]
+    },
+    {
+      "id": "immediate_win_0142",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 3,
+      "history": [
+        81,
+        207,
+        109,
+        67,
+        123,
+        119,
+        95,
+        117
+      ],
+      "correct_actions": [
+        137
+      ]
+    },
+    {
+      "id": "immediate_win_0143",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 3,
+      "history": [
+        186,
+        204,
+        140,
+        176,
+        128,
+        162,
+        148,
+        190,
+        156
+      ],
+      "correct_actions": [
+        218
+      ]
+    },
+    {
+      "id": "immediate_win_0144",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 0,
+      "history": [
+        92,
+        207,
+        94,
+        59,
+        93,
+        175,
+        95,
+        91
+      ],
+      "correct_actions": [
+        96
+      ]
+    },
+    {
+      "id": "immediate_win_0145",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 0,
+      "history": [
+        206,
+        176,
+        220,
+        177,
+        114,
+        175,
+        107,
+        178,
+        174
+      ],
+      "correct_actions": [
+        179
+      ]
+    },
+    {
+      "id": "immediate_win_0146",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 1,
+      "history": [
+        133,
+        66,
+        118,
+        208,
+        88,
+        168,
+        103,
+        73
+      ],
+      "correct_actions": [
+        148
+      ]
+    },
+    {
+      "id": "immediate_win_0147",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 1,
+      "history": [
+        62,
+        159,
+        23,
+        144,
+        84,
+        189,
+        207,
+        174,
+        129
+      ],
+      "correct_actions": [
+        204
+      ]
+    },
+    {
+      "id": "immediate_win_0148",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 2,
+      "history": [
+        126,
+        217,
+        110,
+        173,
+        78,
+        7,
+        94,
+        62
+      ],
+      "correct_actions": [
+        142
+      ]
+    },
+    {
+      "id": "immediate_win_0149",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 2,
+      "history": [
+        1,
+        78,
+        46,
+        62,
+        213,
+        94,
+        24,
+        110,
+        142
+      ],
+      "correct_actions": [
+        126
+      ]
+    },
+    {
+      "id": "immediate_win_0150",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 3,
+      "history": [
+        113,
+        216,
+        99,
+        57,
+        85,
+        208,
+        71,
+        25
+      ],
+      "correct_actions": [
+        127
+      ]
+    },
+    {
+      "id": "immediate_win_0151",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 3,
+      "history": [
+        66,
+        196,
+        79,
+        182,
+        34,
+        154,
+        8,
+        168,
+        140
+      ],
+      "correct_actions": [
+        210
+      ]
+    },
+    {
+      "id": "immediate_win_0152",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 0,
+      "history": [
+        203,
+        59,
+        202,
+        200,
+        204,
+        55,
+        205,
+        201
+      ],
+      "correct_actions": [
+        206
+      ]
+    },
+    {
+      "id": "immediate_win_0153",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 0,
+      "history": [
+        106,
+        170,
+        23,
+        169,
+        166,
+        167,
+        38,
+        168,
+        44
+      ],
+      "correct_actions": [
+        171
+      ]
+    },
+    {
+      "id": "immediate_win_0154",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 1,
+      "history": [
+        165,
+        110,
+        195,
+        191,
+        180,
+        135,
+        150,
+        172
+      ],
+      "correct_actions": [
+        210
+      ]
+    },
+    {
+      "id": "immediate_win_0155",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 1,
+      "history": [
+        80,
+        125,
+        121,
+        140,
+        89,
+        95,
+        196,
+        110,
+        30
+      ],
+      "correct_actions": [
+        155
+      ]
+    },
+    {
+      "id": "immediate_win_0156",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 2,
+      "history": [
+        128,
+        26,
+        96,
+        80,
+        144,
+        139,
+        112,
+        57
+      ],
+      "correct_actions": [
+        160
+      ]
+    },
+    {
+      "id": "immediate_win_0157",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 2,
+      "history": [
+        27,
+        82,
+        14,
+        98,
+        208,
+        66,
+        50,
+        114,
+        86
+      ],
+      "correct_actions": [
+        130
+      ]
+    },
+    {
+      "id": "immediate_win_0158",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 3,
+      "history": [
+        128,
+        66,
+        100,
+        30,
+        114,
+        86,
+        142,
+        175
+      ],
+      "correct_actions": [
+        156
+      ]
+    },
+    {
+      "id": "immediate_win_0159",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 3,
+      "history": [
+        82,
+        116,
+        37,
+        88,
+        1,
+        130,
+        74,
+        102,
+        197
+      ],
+      "correct_actions": [
+        144
+      ]
+    },
+    {
+      "id": "immediate_win_0160",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 0,
+      "history": [
+        143,
+        141,
+        144,
+        135,
+        142,
+        19,
+        145,
+        33
+      ],
+      "correct_actions": [
+        146
+      ]
+    },
+    {
+      "id": "immediate_win_0161",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 0,
+      "history": [
+        56,
+        201,
+        198,
+        200,
+        180,
+        202,
+        104,
+        199,
+        154
+      ],
+      "correct_actions": [
+        203
+      ]
+    },
+    {
+      "id": "immediate_win_0162",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 1,
+      "history": [
+        31,
+        172,
+        76,
+        176,
+        61,
+        16,
+        46,
+        93
+      ],
+      "correct_actions": [
+        91
+      ]
+    },
+    {
+      "id": "immediate_win_0163",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 1,
+      "history": [
+        32,
+        56,
+        11,
+        26,
+        59,
+        41,
+        192,
+        71,
+        39
+      ],
+      "correct_actions": [
+        86
+      ]
+    },
+    {
+      "id": "immediate_win_0164",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 2,
+      "history": [
+        78,
+        131,
+        126,
+        62,
+        110,
+        79,
+        94,
+        120
+      ],
+      "correct_actions": [
+        142
+      ]
+    },
+    {
+      "id": "immediate_win_0165",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 2,
+      "history": [
+        137,
+        201,
+        209,
+        169,
+        7,
+        185,
+        56,
+        153,
+        76
+      ],
+      "correct_actions": [
+        217
+      ]
+    },
+    {
+      "id": "immediate_win_0166",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 3,
+      "history": [
+        67,
+        11,
+        53,
+        115,
+        39,
+        98,
+        25,
+        190
+      ],
+      "correct_actions": [
+        81
+      ]
+    },
+    {
+      "id": "immediate_win_0167",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 3,
+      "history": [
+        184,
+        127,
+        17,
+        141,
+        33,
+        155,
+        42,
+        113,
+        99
+      ],
+      "correct_actions": [
+        169
+      ]
+    },
+    {
+      "id": "immediate_win_0168",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 0,
+      "history": [
+        9,
+        115,
+        7,
+        117,
+        6,
+        5,
+        8,
+        36
+      ],
+      "correct_actions": [
+        10
+      ]
+    },
+    {
+      "id": "immediate_win_0169",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 0,
+      "history": [
+        35,
+        215,
+        8,
+        216,
+        214,
+        217,
+        184,
+        218,
+        12
+      ],
+      "correct_actions": [
+        219
+      ]
+    },
+    {
+      "id": "immediate_win_0170",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 1,
+      "history": [
+        90,
+        194,
+        60,
+        30,
+        45,
+        32,
+        75,
+        212
+      ],
+      "correct_actions": [
+        105
+      ]
+    },
+    {
+      "id": "immediate_win_0171",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 1,
+      "history": [
+        75,
+        66,
+        119,
+        81,
+        134,
+        51,
+        21,
+        36,
+        151
+      ],
+      "correct_actions": [
+        96
+      ]
+    },
+    {
+      "id": "immediate_win_0172",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 2,
+      "history": [
+        78,
+        196,
+        94,
+        133,
+        110,
+        46,
+        62,
+        54
+      ],
+      "correct_actions": [
+        126
+      ]
+    },
+    {
+      "id": "immediate_win_0173",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 2,
+      "history": [
+        158,
+        63,
+        154,
+        47,
+        15,
+        79,
+        172,
+        31,
+        90
+      ],
+      "correct_actions": [
+        95
+      ]
+    },
+    {
+      "id": "immediate_win_0174",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 3,
+      "history": [
+        157,
+        78,
+        185,
+        68,
+        199,
+        143,
+        171,
+        220
+      ],
+      "correct_actions": [
+        213
+      ]
+    },
+    {
+      "id": "immediate_win_0175",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 3,
+      "history": [
+        57,
+        113,
+        82,
+        99,
+        110,
+        71,
+        138,
+        85,
+        74
+      ],
+      "correct_actions": [
+        127
+      ]
+    },
+    {
+      "id": "immediate_win_0176",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 0,
+      "history": [
+        66,
+        64,
+        67,
+        142,
+        65,
+        31,
+        68,
+        135
+      ],
+      "correct_actions": [
+        69
+      ]
+    },
+    {
+      "id": "immediate_win_0177",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 0,
+      "history": [
+        179,
+        221,
+        51,
+        222,
+        219,
+        220,
+        205,
+        223,
+        144
+      ],
+      "correct_actions": [
+        224
+      ]
+    },
+    {
+      "id": "immediate_win_0178",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 1,
+      "history": [
+        71,
+        188,
+        86,
+        26,
+        41,
+        123,
+        56,
+        88
+      ],
+      "correct_actions": [
+        101
+      ]
+    },
+    {
+      "id": "immediate_win_0179",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 1,
+      "history": [
+        50,
+        192,
+        196,
+        162,
+        75,
+        177,
+        147,
+        207,
+        64
+      ],
+      "correct_actions": [
+        222
+      ]
+    },
+    {
+      "id": "immediate_win_0180",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 2,
+      "history": [
+        170,
+        14,
+        202,
+        81,
+        154,
+        157,
+        186,
+        138
+      ],
+      "correct_actions": [
+        218
+      ]
+    },
+    {
+      "id": "immediate_win_0181",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 2,
+      "history": [
+        103,
+        188,
+        85,
+        172,
+        181,
+        204,
+        193,
+        156,
+        140
+      ],
+      "correct_actions": [
+        220
+      ]
+    },
+    {
+      "id": "immediate_win_0182",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 3,
+      "history": [
+        96,
+        7,
+        138,
+        187,
+        110,
+        28,
+        124,
+        82
+      ],
+      "correct_actions": [
+        152
+      ]
+    },
+    {
+      "id": "immediate_win_0183",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 3,
+      "history": [
+        122,
+        95,
+        200,
+        81,
+        150,
+        123,
+        23,
+        109,
+        67
+      ],
+      "correct_actions": [
+        137
+      ]
+    },
+    {
+      "id": "immediate_win_0184",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 0,
+      "history": [
+        197,
+        74,
+        196,
+        210,
+        198,
+        223,
+        199,
+        195
+      ],
+      "correct_actions": [
+        200
+      ]
+    },
+    {
+      "id": "immediate_win_0185",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 0,
+      "history": [
+        190,
+        217,
+        92,
+        219,
+        216,
+        220,
+        61,
+        218,
+        62
+      ],
+      "correct_actions": [
+        221
+      ]
+    },
+    {
+      "id": "immediate_win_0186",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 1,
+      "history": [
+        62,
+        98,
+        107,
+        47,
+        77,
+        33,
+        92,
+        23
+      ],
+      "correct_actions": [
+        122
+      ]
+    },
+    {
+      "id": "immediate_win_0187",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 1,
+      "history": [
+        138,
+        142,
+        2,
+        172,
+        193,
+        157,
+        204,
+        127,
+        112
+      ],
+      "correct_actions": [
+        187
+      ]
+    },
+    {
+      "id": "immediate_win_0188",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 2,
+      "history": [
+        103,
+        137,
+        87,
+        197,
+        71,
+        80,
+        55,
+        39
+      ],
+      "correct_actions": [
+        119
+      ]
+    },
+    {
+      "id": "immediate_win_0189",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 2,
+      "history": [
+        58,
+        116,
+        75,
+        100,
+        124,
+        148,
+        159,
+        132,
+        84
+      ],
+      "correct_actions": [
+        164
+      ]
+    },
+    {
+      "id": "immediate_win_0190",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 3,
+      "history": [
+        72,
+        40,
+        86,
+        58,
+        114,
+        27,
+        100,
+        94
+      ],
+      "correct_actions": [
+        128
+      ]
+    },
+    {
+      "id": "immediate_win_0191",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 3,
+      "history": [
+        66,
+        196,
+        140,
+        182,
+        67,
+        154,
+        103,
+        168,
+        21
+      ],
+      "correct_actions": [
+        210
+      ]
+    },
+    {
+      "id": "immediate_win_0192",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 0,
+      "history": [
+        56,
+        183,
+        54,
+        63,
+        55,
+        117,
+        57,
+        53
+      ],
+      "correct_actions": [
+        58
+      ]
+    },
+    {
+      "id": "immediate_win_0193",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 0,
+      "history": [
+        143,
+        33,
+        80,
+        34,
+        103,
+        32,
+        30,
+        31,
+        214
+      ],
+      "correct_actions": [
+        35
+      ]
+    },
+    {
+      "id": "immediate_win_0194",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 1,
+      "history": [
+        57,
+        24,
+        87,
+        162,
+        102,
+        19,
+        72,
+        42
+      ],
+      "correct_actions": [
+        117
+      ]
+    },
+    {
+      "id": "immediate_win_0195",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 1,
+      "history": [
+        24,
+        154,
+        94,
+        139,
+        110,
+        124,
+        119,
+        109,
+        120
+      ],
+      "correct_actions": [
+        169
+      ]
+    },
+    {
+      "id": "immediate_win_0196",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 2,
+      "history": [
+        71,
+        97,
+        55,
+        39,
+        103,
+        184,
+        87,
+        5
+      ],
+      "correct_actions": [
+        119
+      ]
+    },
+    {
+      "id": "immediate_win_0197",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 2,
+      "history": [
+        139,
+        176,
+        112,
+        160,
+        218,
+        128,
+        58,
+        144,
+        198
+      ],
+      "correct_actions": [
+        192
+      ]
+    },
+    {
+      "id": "immediate_win_0198",
+      "kind": "immediate_win",
+      "color": 0,
+      "direction": 3,
+      "history": [
+        114,
+        164,
+        86,
+        58,
+        100,
+        145,
+        72,
+        188
+      ],
+      "correct_actions": [
+        128
+      ]
+    },
+    {
+      "id": "immediate_win_0199",
+      "kind": "immediate_win",
+      "color": 1,
+      "direction": 3,
+      "history": [
+        13,
+        98,
+        195,
+        56,
+        42,
+        70,
+        93,
+        84,
+        104
+      ],
+      "correct_actions": [
+        112
+      ]
+    },
+    {
+      "id": "forced_block_0000",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 0,
+      "history": [
+        27,
+        190,
+        51,
+        189,
+        45,
+        191,
+        188,
+        192
+      ],
+      "correct_actions": [
+        193
+      ]
+    },
+    {
+      "id": "forced_block_0001",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 0,
+      "history": [
+        58,
+        189,
+        55,
+        134,
+        57,
+        154,
+        7,
+        54,
+        56
+      ],
+      "correct_actions": [
+        59
+      ]
+    },
+    {
+      "id": "forced_block_0002",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 1,
+      "history": [
+        79,
+        94,
+        200,
+        124,
+        116,
+        109,
+        210,
+        139
+      ],
+      "correct_actions": [
+        154
+      ]
+    },
+    {
+      "id": "forced_block_0003",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 1,
+      "history": [
+        74,
+        42,
+        104,
+        140,
+        89,
+        210,
+        46,
+        59,
+        119
+      ],
+      "correct_actions": [
+        134
+      ]
+    },
+    {
+      "id": "forced_block_0004",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 2,
+      "history": [
+        64,
+        91,
+        114,
+        123,
+        185,
+        139,
+        75,
+        107
+      ],
+      "correct_actions": [
+        155
+      ]
+    },
+    {
+      "id": "forced_block_0005",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 2,
+      "history": [
+        52,
+        36,
+        164,
+        148,
+        68,
+        153,
+        84,
+        30,
+        100
+      ],
+      "correct_actions": [
+        116
+      ]
+    },
+    {
+      "id": "forced_block_0006",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 3,
+      "history": [
+        172,
+        113,
+        99,
+        141,
+        11,
+        155,
+        140,
+        127
+      ],
+      "correct_actions": [
+        169
+      ]
+    },
+    {
+      "id": "forced_block_0007",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 3,
+      "history": [
+        97,
+        199,
+        139,
+        222,
+        152,
+        83,
+        111,
+        36,
+        125
+      ],
+      "correct_actions": [
+        153
+      ]
+    },
+    {
+      "id": "forced_block_0008",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 0,
+      "history": [
+        148,
+        83,
+        107,
+        82,
+        79,
+        80,
+        111,
+        81
+      ],
+      "correct_actions": [
+        84
+      ]
+    },
+    {
+      "id": "forced_block_0009",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 0,
+      "history": [
+        18,
+        140,
+        17,
+        15,
+        16,
+        36,
+        62,
+        3,
+        19
+      ],
+      "correct_actions": [
+        20
+      ]
+    },
+    {
+      "id": "forced_block_0010",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 1,
+      "history": [
+        100,
+        170,
+        172,
+        155,
+        127,
+        200,
+        140,
+        185
+      ],
+      "correct_actions": [
+        215
+      ]
+    },
+    {
+      "id": "forced_block_0011",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 1,
+      "history": [
+        150,
+        90,
+        105,
+        60,
+        78,
+        133,
+        135,
+        68,
+        120
+      ],
+      "correct_actions": [
+        165
+      ]
+    },
+    {
+      "id": "forced_block_0012",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 2,
+      "history": [
+        78,
+        94,
+        140,
+        142,
+        132,
+        126,
+        22,
+        110
+      ],
+      "correct_actions": [
+        158
+      ]
+    },
+    {
+      "id": "forced_block_0013",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 2,
+      "history": [
+        17,
+        1,
+        5,
+        9,
+        33,
+        222,
+        49,
+        16,
+        65
+      ],
+      "correct_actions": [
+        81
+      ]
+    },
+    {
+      "id": "forced_block_0014",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 3,
+      "history": [
+        89,
+        66,
+        38,
+        52,
+        6,
+        94,
+        129,
+        80
+      ],
+      "correct_actions": [
+        108
+      ]
+    },
+    {
+      "id": "forced_block_0015",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 3,
+      "history": [
+        24,
+        10,
+        52,
+        55,
+        79,
+        204,
+        38,
+        37,
+        66
+      ],
+      "correct_actions": [
+        80
+      ]
+    },
+    {
+      "id": "forced_block_0016",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 0,
+      "history": [
+        202,
+        49,
+        86,
+        47,
+        60,
+        48,
+        45,
+        46
+      ],
+      "correct_actions": [
+        50
+      ]
+    },
+    {
+      "id": "forced_block_0017",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 0,
+      "history": [
+        27,
+        212,
+        55,
+        24,
+        26,
+        38,
+        25,
+        174,
+        28
+      ],
+      "correct_actions": [
+        29
+      ]
+    },
+    {
+      "id": "forced_block_0018",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 1,
+      "history": [
+        127,
+        47,
+        17,
+        77,
+        49,
+        62,
+        150,
+        32
+      ],
+      "correct_actions": [
+        92
+      ]
+    },
+    {
+      "id": "forced_block_0019",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 1,
+      "history": [
+        36,
+        200,
+        66,
+        143,
+        51,
+        206,
+        21,
+        6,
+        161
+      ],
+      "correct_actions": [
+        81
+      ]
+    },
+    {
+      "id": "forced_block_0020",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 2,
+      "history": [
+        39,
+        71,
+        159,
+        103,
+        145,
+        55,
+        211,
+        87
+      ],
+      "correct_actions": [
+        119
+      ]
+    },
+    {
+      "id": "forced_block_0021",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 2,
+      "history": [
+        69,
+        111,
+        85,
+        213,
+        37,
+        214,
+        196,
+        21,
+        53
+      ],
+      "correct_actions": [
+        101
+      ]
+    },
+    {
+      "id": "forced_block_0022",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 3,
+      "history": [
+        77,
+        157,
+        115,
+        171,
+        44,
+        129,
+        102,
+        143
+      ],
+      "correct_actions": [
+        185
+      ]
+    },
+    {
+      "id": "forced_block_0023",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 3,
+      "history": [
+        25,
+        83,
+        53,
+        84,
+        181,
+        36,
+        67,
+        11,
+        39
+      ],
+      "correct_actions": [
+        81
+      ]
+    },
+    {
+      "id": "forced_block_0024",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 0,
+      "history": [
+        157,
+        25,
+        21,
+        24,
+        149,
+        23,
+        109,
+        22
+      ],
+      "correct_actions": [
+        26
+      ]
+    },
+    {
+      "id": "forced_block_0025",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 0,
+      "history": [
+        20,
+        16,
+        9,
+        80,
+        17,
+        207,
+        18,
+        218,
+        19
+      ],
+      "correct_actions": [
+        21
+      ]
+    },
+    {
+      "id": "forced_block_0026",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 1,
+      "history": [
+        67,
+        97,
+        131,
+        127,
+        58,
+        112,
+        98,
+        82
+      ],
+      "correct_actions": [
+        142
+      ]
+    },
+    {
+      "id": "forced_block_0027",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 1,
+      "history": [
+        122,
+        83,
+        98,
+        50,
+        113,
+        34,
+        128,
+        47,
+        143
+      ],
+      "correct_actions": [
+        158
+      ]
+    },
+    {
+      "id": "forced_block_0028",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 2,
+      "history": [
+        9,
+        65,
+        1,
+        33,
+        189,
+        17,
+        23,
+        49
+      ],
+      "correct_actions": [
+        81
+      ]
+    },
+    {
+      "id": "forced_block_0029",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 2,
+      "history": [
+        94,
+        46,
+        78,
+        28,
+        188,
+        194,
+        110,
+        203,
+        62
+      ],
+      "correct_actions": [
+        126
+      ]
+    },
+    {
+      "id": "forced_block_0030",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 3,
+      "history": [
+        49,
+        98,
+        9,
+        112,
+        80,
+        140,
+        84,
+        126
+      ],
+      "correct_actions": [
+        154
+      ]
+    },
+    {
+      "id": "forced_block_0031",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 3,
+      "history": [
+        98,
+        185,
+        46,
+        106,
+        84,
+        195,
+        126,
+        70,
+        112
+      ],
+      "correct_actions": [
+        140
+      ]
+    },
+    {
+      "id": "forced_block_0032",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 0,
+      "history": [
+        145,
+        52,
+        201,
+        51,
+        108,
+        54,
+        50,
+        53
+      ],
+      "correct_actions": [
+        55
+      ]
+    },
+    {
+      "id": "forced_block_0033",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 0,
+      "history": [
+        11,
+        189,
+        10,
+        219,
+        9,
+        32,
+        151,
+        8,
+        12
+      ],
+      "correct_actions": [
+        13
+      ]
+    },
+    {
+      "id": "forced_block_0034",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 1,
+      "history": [
+        103,
+        79,
+        155,
+        49,
+        2,
+        64,
+        19,
+        34
+      ],
+      "correct_actions": [
+        94
+      ]
+    },
+    {
+      "id": "forced_block_0035",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 1,
+      "history": [
+        105,
+        90,
+        120,
+        185,
+        150,
+        112,
+        135,
+        139,
+        113
+      ],
+      "correct_actions": [
+        165
+      ]
+    },
+    {
+      "id": "forced_block_0036",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 2,
+      "history": [
+        60,
+        102,
+        38,
+        70,
+        124,
+        54,
+        123,
+        86
+      ],
+      "correct_actions": [
+        118
+      ]
+    },
+    {
+      "id": "forced_block_0037",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 2,
+      "history": [
+        85,
+        53,
+        69,
+        92,
+        117,
+        136,
+        101,
+        57,
+        44
+      ],
+      "correct_actions": [
+        133
+      ]
+    },
+    {
+      "id": "forced_block_0038",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 3,
+      "history": [
+        128,
+        130,
+        138,
+        144,
+        178,
+        116,
+        102,
+        158
+      ],
+      "correct_actions": [
+        172
+      ]
+    },
+    {
+      "id": "forced_block_0039",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 3,
+      "history": [
+        183,
+        127,
+        169,
+        49,
+        141,
+        158,
+        155,
+        65,
+        52
+      ],
+      "correct_actions": [
+        197
+      ]
+    },
+    {
+      "id": "forced_block_0040",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 0,
+      "history": [
+        222,
+        86,
+        168,
+        84,
+        83,
+        87,
+        108,
+        85
+      ],
+      "correct_actions": [
+        88
+      ]
+    },
+    {
+      "id": "forced_block_0041",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 0,
+      "history": [
+        34,
+        30,
+        51,
+        3,
+        31,
+        151,
+        32,
+        185,
+        33
+      ],
+      "correct_actions": [
+        35
+      ]
+    },
+    {
+      "id": "forced_block_0042",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 1,
+      "history": [
+        214,
+        96,
+        23,
+        111,
+        81,
+        141,
+        85,
+        126
+      ],
+      "correct_actions": [
+        156
+      ]
+    },
+    {
+      "id": "forced_block_0043",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 1,
+      "history": [
+        73,
+        16,
+        118,
+        123,
+        88,
+        216,
+        112,
+        58,
+        103
+      ],
+      "correct_actions": [
+        133
+      ]
+    },
+    {
+      "id": "forced_block_0044",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 2,
+      "history": [
+        173,
+        141,
+        197,
+        109,
+        98,
+        93,
+        77,
+        125
+      ],
+      "correct_actions": [
+        157
+      ]
+    },
+    {
+      "id": "forced_block_0045",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 2,
+      "history": [
+        46,
+        151,
+        78,
+        30,
+        94,
+        145,
+        127,
+        43,
+        62
+      ],
+      "correct_actions": [
+        110
+      ]
+    },
+    {
+      "id": "forced_block_0046",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 3,
+      "history": [
+        111,
+        139,
+        179,
+        153,
+        158,
+        167,
+        91,
+        125
+      ],
+      "correct_actions": [
+        181
+      ]
+    },
+    {
+      "id": "forced_block_0047",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 3,
+      "history": [
+        61,
+        63,
+        47,
+        181,
+        33,
+        5,
+        53,
+        127,
+        19
+      ],
+      "correct_actions": [
+        75
+      ]
+    },
+    {
+      "id": "forced_block_0048",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 0,
+      "history": [
+        64,
+        65,
+        172,
+        68,
+        52,
+        66,
+        205,
+        67
+      ],
+      "correct_actions": [
+        69
+      ]
+    },
+    {
+      "id": "forced_block_0049",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 0,
+      "history": [
+        129,
+        28,
+        9,
+        70,
+        12,
+        77,
+        11,
+        8,
+        10
+      ],
+      "correct_actions": [
+        13
+      ]
+    },
+    {
+      "id": "forced_block_0050",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 1,
+      "history": [
+        218,
+        73,
+        150,
+        103,
+        58,
+        88,
+        34,
+        118
+      ],
+      "correct_actions": [
+        133
+      ]
+    },
+    {
+      "id": "forced_block_0051",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 1,
+      "history": [
+        147,
+        127,
+        101,
+        215,
+        71,
+        56,
+        86,
+        154,
+        116
+      ],
+      "correct_actions": [
+        131
+      ]
+    },
+    {
+      "id": "forced_block_0052",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 2,
+      "history": [
+        25,
+        81,
+        117,
+        49,
+        17,
+        65,
+        28,
+        33
+      ],
+      "correct_actions": [
+        97
+      ]
+    },
+    {
+      "id": "forced_block_0053",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 2,
+      "history": [
+        157,
+        81,
+        67,
+        3,
+        51,
+        172,
+        35,
+        137,
+        19
+      ],
+      "correct_actions": [
+        83
+      ]
+    },
+    {
+      "id": "forced_block_0054",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 3,
+      "history": [
+        136,
+        98,
+        158,
+        112,
+        123,
+        126,
+        84,
+        140
+      ],
+      "correct_actions": [
+        154
+      ]
+    },
+    {
+      "id": "forced_block_0055",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 3,
+      "history": [
+        169,
+        134,
+        141,
+        26,
+        155,
+        113,
+        139,
+        162,
+        127
+      ],
+      "correct_actions": [
+        183
+      ]
+    },
+    {
+      "id": "forced_block_0056",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 0,
+      "history": [
+        2,
+        6,
+        189,
+        3,
+        61,
+        4,
+        169,
+        5
+      ],
+      "correct_actions": [
+        7
+      ]
+    },
+    {
+      "id": "forced_block_0057",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 0,
+      "history": [
+        96,
+        166,
+        94,
+        5,
+        93,
+        92,
+        95,
+        186,
+        121
+      ],
+      "correct_actions": [
+        97
+      ]
+    },
+    {
+      "id": "forced_block_0058",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 1,
+      "history": [
+        23,
+        38,
+        112,
+        53,
+        103,
+        83,
+        30,
+        68
+      ],
+      "correct_actions": [
+        98
+      ]
+    },
+    {
+      "id": "forced_block_0059",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 1,
+      "history": [
+        110,
+        194,
+        158,
+        51,
+        173,
+        166,
+        143,
+        128,
+        188
+      ],
+      "correct_actions": [
+        203
+      ]
+    },
+    {
+      "id": "forced_block_0060",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 2,
+      "history": [
+        81,
+        18,
+        6,
+        66,
+        160,
+        50,
+        2,
+        34
+      ],
+      "correct_actions": [
+        82
+      ]
+    },
+    {
+      "id": "forced_block_0061",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 2,
+      "history": [
+        34,
+        188,
+        50,
+        27,
+        82,
+        189,
+        5,
+        18,
+        66
+      ],
+      "correct_actions": [
+        98
+      ]
+    },
+    {
+      "id": "forced_block_0062",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 3,
+      "history": [
+        34,
+        108,
+        99,
+        94,
+        206,
+        66,
+        52,
+        80
+      ],
+      "correct_actions": [
+        122
+      ]
+    },
+    {
+      "id": "forced_block_0063",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 3,
+      "history": [
+        112,
+        80,
+        70,
+        56,
+        150,
+        52,
+        84,
+        152,
+        98
+      ],
+      "correct_actions": [
+        126
+      ]
+    },
+    {
+      "id": "forced_block_0064",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 0,
+      "history": [
+        198,
+        200,
+        173,
+        199,
+        157,
+        201,
+        35,
+        202
+      ],
+      "correct_actions": [
+        203
+      ]
+    },
+    {
+      "id": "forced_block_0065",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 0,
+      "history": [
+        110,
+        149,
+        72,
+        67,
+        112,
+        34,
+        113,
+        109,
+        111
+      ],
+      "correct_actions": [
+        114
+      ]
+    },
+    {
+      "id": "forced_block_0066",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 1,
+      "history": [
+        115,
+        109,
+        190,
+        139,
+        200,
+        124,
+        79,
+        94
+      ],
+      "correct_actions": [
+        154
+      ]
+    },
+    {
+      "id": "forced_block_0067",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 1,
+      "history": [
+        204,
+        42,
+        168,
+        88,
+        183,
+        11,
+        153,
+        138,
+        198
+      ],
+      "correct_actions": [
+        213
+      ]
+    },
+    {
+      "id": "forced_block_0068",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 2,
+      "history": [
+        45,
+        108,
+        60,
+        124,
+        179,
+        76,
+        176,
+        92
+      ],
+      "correct_actions": [
+        140
+      ]
+    },
+    {
+      "id": "forced_block_0069",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 2,
+      "history": [
+        126,
+        53,
+        158,
+        215,
+        142,
+        110,
+        218,
+        168,
+        174
+      ],
+      "correct_actions": [
+        190
+      ]
+    },
+    {
+      "id": "forced_block_0070",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 3,
+      "history": [
+        56,
+        110,
+        133,
+        68,
+        54,
+        82,
+        40,
+        96
+      ],
+      "correct_actions": [
+        124
+      ]
+    },
+    {
+      "id": "forced_block_0071",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 3,
+      "history": [
+        139,
+        105,
+        167,
+        120,
+        153,
+        111,
+        39,
+        187,
+        125
+      ],
+      "correct_actions": [
+        181
+      ]
+    },
+    {
+      "id": "forced_block_0072",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 0,
+      "history": [
+        130,
+        6,
+        116,
+        3,
+        2,
+        4,
+        100,
+        5
+      ],
+      "correct_actions": [
+        7
+      ]
+    },
+    {
+      "id": "forced_block_0073",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 0,
+      "history": [
+        109,
+        120,
+        108,
+        171,
+        107,
+        126,
+        110,
+        106,
+        213
+      ],
+      "correct_actions": [
+        111
+      ]
+    },
+    {
+      "id": "forced_block_0074",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 1,
+      "history": [
+        39,
+        149,
+        119,
+        179,
+        35,
+        164,
+        103,
+        134
+      ],
+      "correct_actions": [
+        194
+      ]
+    },
+    {
+      "id": "forced_block_0075",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 1,
+      "history": [
+        160,
+        85,
+        145,
+        18,
+        175,
+        130,
+        190,
+        224,
+        84
+      ],
+      "correct_actions": [
+        205
+      ]
+    },
+    {
+      "id": "forced_block_0076",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 2,
+      "history": [
+        78,
+        174,
+        193,
+        158,
+        126,
+        190,
+        53,
+        142
+      ],
+      "correct_actions": [
+        206
+      ]
+    },
+    {
+      "id": "forced_block_0077",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 2,
+      "history": [
+        37,
+        45,
+        85,
+        46,
+        53,
+        21,
+        69,
+        150,
+        100
+      ],
+      "correct_actions": [
+        101
+      ]
+    },
+    {
+      "id": "forced_block_0078",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 3,
+      "history": [
+        103,
+        65,
+        144,
+        51,
+        23,
+        79,
+        137,
+        37
+      ],
+      "correct_actions": [
+        93
+      ]
+    },
+    {
+      "id": "forced_block_0079",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 3,
+      "history": [
+        128,
+        143,
+        31,
+        153,
+        114,
+        100,
+        142,
+        109,
+        156
+      ],
+      "correct_actions": [
+        170
+      ]
+    },
+    {
+      "id": "forced_block_0080",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 0,
+      "history": [
+        106,
+        111,
+        147,
+        113,
+        109,
+        110,
+        97,
+        112
+      ],
+      "correct_actions": [
+        114
+      ]
+    },
+    {
+      "id": "forced_block_0081",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 0,
+      "history": [
+        113,
+        109,
+        111,
+        182,
+        112,
+        84,
+        110,
+        21,
+        140
+      ],
+      "correct_actions": [
+        114
+      ]
+    },
+    {
+      "id": "forced_block_0082",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 1,
+      "history": [
+        167,
+        46,
+        110,
+        61,
+        137,
+        31,
+        16,
+        76
+      ],
+      "correct_actions": [
+        91
+      ]
+    },
+    {
+      "id": "forced_block_0083",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 1,
+      "history": [
+        87,
+        57,
+        72,
+        205,
+        101,
+        151,
+        117,
+        194,
+        102
+      ],
+      "correct_actions": [
+        132
+      ]
+    },
+    {
+      "id": "forced_block_0084",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 2,
+      "history": [
+        23,
+        178,
+        114,
+        146,
+        159,
+        130,
+        48,
+        162
+      ],
+      "correct_actions": [
+        194
+      ]
+    },
+    {
+      "id": "forced_block_0085",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 2,
+      "history": [
+        124,
+        128,
+        7,
+        171,
+        92,
+        112,
+        108,
+        60,
+        76
+      ],
+      "correct_actions": [
+        140
+      ]
+    },
+    {
+      "id": "forced_block_0086",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 3,
+      "history": [
+        51,
+        174,
+        48,
+        188,
+        211,
+        202,
+        146,
+        160
+      ],
+      "correct_actions": [
+        216
+      ]
+    },
+    {
+      "id": "forced_block_0087",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 3,
+      "history": [
+        161,
+        147,
+        175,
+        163,
+        203,
+        25,
+        106,
+        92,
+        189
+      ],
+      "correct_actions": [
+        217
+      ]
+    },
+    {
+      "id": "forced_block_0088",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 0,
+      "history": [
+        202,
+        5,
+        194,
+        4,
+        1,
+        2,
+        162,
+        3
+      ],
+      "correct_actions": [
+        6
+      ]
+    },
+    {
+      "id": "forced_block_0089",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 0,
+      "history": [
+        24,
+        21,
+        25,
+        46,
+        93,
+        115,
+        22,
+        208,
+        23
+      ],
+      "correct_actions": [
+        26
+      ]
+    },
+    {
+      "id": "forced_block_0090",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 1,
+      "history": [
+        140,
+        50,
+        141,
+        80,
+        193,
+        95,
+        35,
+        65
+      ],
+      "correct_actions": [
+        110
+      ]
+    },
+    {
+      "id": "forced_block_0091",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 1,
+      "history": [
+        97,
+        183,
+        112,
+        11,
+        15,
+        221,
+        127,
+        82,
+        142
+      ],
+      "correct_actions": [
+        157
+      ]
+    },
+    {
+      "id": "forced_block_0092",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 2,
+      "history": [
+        18,
+        127,
+        52,
+        159,
+        40,
+        143,
+        111,
+        175
+      ],
+      "correct_actions": [
+        191
+      ]
+    },
+    {
+      "id": "forced_block_0093",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 2,
+      "history": [
+        106,
+        90,
+        31,
+        222,
+        138,
+        151,
+        122,
+        55,
+        154
+      ],
+      "correct_actions": [
+        170
+      ]
+    },
+    {
+      "id": "forced_block_0094",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 3,
+      "history": [
+        213,
+        81,
+        28,
+        67,
+        70,
+        95,
+        39,
+        53
+      ],
+      "correct_actions": [
+        109
+      ]
+    },
+    {
+      "id": "forced_block_0095",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 3,
+      "history": [
+        171,
+        95,
+        185,
+        21,
+        199,
+        143,
+        157,
+        178,
+        118
+      ],
+      "correct_actions": [
+        213
+      ]
+    },
+    {
+      "id": "forced_block_0096",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 0,
+      "history": [
+        72,
+        132,
+        80,
+        131,
+        129,
+        133,
+        86,
+        130
+      ],
+      "correct_actions": [
+        134
+      ]
+    },
+    {
+      "id": "forced_block_0097",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 0,
+      "history": [
+        50,
+        106,
+        30,
+        57,
+        49,
+        181,
+        52,
+        48,
+        51
+      ],
+      "correct_actions": [
+        53
+      ]
+    },
+    {
+      "id": "forced_block_0098",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 1,
+      "history": [
+        44,
+        89,
+        73,
+        104,
+        183,
+        59,
+        143,
+        74
+      ],
+      "correct_actions": [
+        119
+      ]
+    },
+    {
+      "id": "forced_block_0099",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 1,
+      "history": [
+        102,
+        124,
+        57,
+        42,
+        98,
+        180,
+        72,
+        96,
+        87
+      ],
+      "correct_actions": [
+        117
+      ]
+    },
+    {
+      "id": "forced_block_0100",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 2,
+      "history": [
+        127,
+        143,
+        133,
+        159,
+        62,
+        191,
+        14,
+        175
+      ],
+      "correct_actions": [
+        207
+      ]
+    },
+    {
+      "id": "forced_block_0101",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 2,
+      "history": [
+        144,
+        7,
+        53,
+        112,
+        128,
+        216,
+        160,
+        31,
+        176
+      ],
+      "correct_actions": [
+        192
+      ]
+    },
+    {
+      "id": "forced_block_0102",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 3,
+      "history": [
+        185,
+        66,
+        183,
+        80,
+        4,
+        38,
+        24,
+        52
+      ],
+      "correct_actions": [
+        94
+      ]
+    },
+    {
+      "id": "forced_block_0103",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 3,
+      "history": [
+        33,
+        43,
+        90,
+        101,
+        47,
+        16,
+        61,
+        5,
+        19
+      ],
+      "correct_actions": [
+        75
+      ]
+    },
+    {
+      "id": "forced_block_0104",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 0,
+      "history": [
+        123,
+        185,
+        182,
+        183,
+        57,
+        184,
+        59,
+        186
+      ],
+      "correct_actions": [
+        187
+      ]
+    },
+    {
+      "id": "forced_block_0105",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 0,
+      "history": [
+        97,
+        95,
+        99,
+        171,
+        96,
+        29,
+        98,
+        202,
+        131
+      ],
+      "correct_actions": [
+        100
+      ]
+    },
+    {
+      "id": "forced_block_0106",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 1,
+      "history": [
+        122,
+        167,
+        172,
+        182,
+        26,
+        137,
+        174,
+        152
+      ],
+      "correct_actions": [
+        197
+      ]
+    },
+    {
+      "id": "forced_block_0107",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 1,
+      "history": [
+        141,
+        126,
+        198,
+        110,
+        186,
+        177,
+        156,
+        99,
+        171
+      ],
+      "correct_actions": [
+        201
+      ]
+    },
+    {
+      "id": "forced_block_0108",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 2,
+      "history": [
+        48,
+        80,
+        125,
+        64,
+        103,
+        112,
+        164,
+        96
+      ],
+      "correct_actions": [
+        128
+      ]
+    },
+    {
+      "id": "forced_block_0109",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 2,
+      "history": [
+        141,
+        48,
+        109,
+        93,
+        157,
+        12,
+        51,
+        25,
+        125
+      ],
+      "correct_actions": [
+        173
+      ]
+    },
+    {
+      "id": "forced_block_0110",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 3,
+      "history": [
+        57,
+        161,
+        214,
+        175,
+        88,
+        133,
+        119,
+        147
+      ],
+      "correct_actions": [
+        189
+      ]
+    },
+    {
+      "id": "forced_block_0111",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 3,
+      "history": [
+        130,
+        203,
+        68,
+        74,
+        116,
+        69,
+        102,
+        70,
+        88
+      ],
+      "correct_actions": [
+        144
+      ]
+    },
+    {
+      "id": "forced_block_0112",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 0,
+      "history": [
+        149,
+        51,
+        28,
+        52,
+        153,
+        49,
+        48,
+        50
+      ],
+      "correct_actions": [
+        53
+      ]
+    },
+    {
+      "id": "forced_block_0113",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 0,
+      "history": [
+        108,
+        18,
+        109,
+        105,
+        106,
+        215,
+        107,
+        150,
+        84
+      ],
+      "correct_actions": [
+        110
+      ]
+    },
+    {
+      "id": "forced_block_0114",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 1,
+      "history": [
+        130,
+        160,
+        50,
+        145,
+        212,
+        190,
+        33,
+        175
+      ],
+      "correct_actions": [
+        205
+      ]
+    },
+    {
+      "id": "forced_block_0115",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 1,
+      "history": [
+        67,
+        37,
+        82,
+        188,
+        134,
+        137,
+        52,
+        205,
+        97
+      ],
+      "correct_actions": [
+        112
+      ]
+    },
+    {
+      "id": "forced_block_0116",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 2,
+      "history": [
+        159,
+        202,
+        138,
+        170,
+        86,
+        186,
+        63,
+        154
+      ],
+      "correct_actions": [
+        218
+      ]
+    },
+    {
+      "id": "forced_block_0117",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 2,
+      "history": [
+        68,
+        52,
+        116,
+        17,
+        100,
+        195,
+        84,
+        129,
+        156
+      ],
+      "correct_actions": [
+        132
+      ]
+    },
+    {
+      "id": "forced_block_0118",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 3,
+      "history": [
+        126,
+        56,
+        42,
+        70,
+        218,
+        84,
+        104,
+        98
+      ],
+      "correct_actions": [
+        112
+      ]
+    },
+    {
+      "id": "forced_block_0119",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 3,
+      "history": [
+        156,
+        206,
+        198,
+        43,
+        170,
+        172,
+        184,
+        142,
+        36
+      ],
+      "correct_actions": [
+        212
+      ]
+    },
+    {
+      "id": "forced_block_0120",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 0,
+      "history": [
+        1,
+        4,
+        40,
+        3,
+        205,
+        5,
+        61,
+        2
+      ],
+      "correct_actions": [
+        6
+      ]
+    },
+    {
+      "id": "forced_block_0121",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 0,
+      "history": [
+        197,
+        84,
+        139,
+        23,
+        199,
+        105,
+        196,
+        195,
+        198
+      ],
+      "correct_actions": [
+        200
+      ]
+    },
+    {
+      "id": "forced_block_0122",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 1,
+      "history": [
+        204,
+        86,
+        31,
+        71,
+        199,
+        56,
+        41,
+        101
+      ],
+      "correct_actions": [
+        116
+      ]
+    },
+    {
+      "id": "forced_block_0123",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 1,
+      "history": [
+        170,
+        207,
+        145,
+        100,
+        115,
+        104,
+        130,
+        81,
+        160
+      ],
+      "correct_actions": [
+        175
+      ]
+    },
+    {
+      "id": "forced_block_0124",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 2,
+      "history": [
+        18,
+        69,
+        108,
+        85,
+        53,
+        117,
+        96,
+        101
+      ],
+      "correct_actions": [
+        133
+      ]
+    },
+    {
+      "id": "forced_block_0125",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 2,
+      "history": [
+        79,
+        48,
+        111,
+        93,
+        63,
+        47,
+        95,
+        176,
+        116
+      ],
+      "correct_actions": [
+        127
+      ]
+    },
+    {
+      "id": "forced_block_0126",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 3,
+      "history": [
+        112,
+        168,
+        155,
+        154,
+        46,
+        126,
+        122,
+        140
+      ],
+      "correct_actions": [
+        182
+      ]
+    },
+    {
+      "id": "forced_block_0127",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 3,
+      "history": [
+        94,
+        44,
+        186,
+        18,
+        144,
+        130,
+        172,
+        111,
+        158
+      ],
+      "correct_actions": [
+        200
+      ]
+    },
+    {
+      "id": "forced_block_0128",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 0,
+      "history": [
+        101,
+        202,
+        20,
+        199,
+        198,
+        200,
+        89,
+        201
+      ],
+      "correct_actions": [
+        203
+      ]
+    },
+    {
+      "id": "forced_block_0129",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 0,
+      "history": [
+        95,
+        56,
+        204,
+        201,
+        205,
+        104,
+        202,
+        181,
+        203
+      ],
+      "correct_actions": [
+        206
+      ]
+    },
+    {
+      "id": "forced_block_0130",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 1,
+      "history": [
+        74,
+        23,
+        8,
+        53,
+        18,
+        38,
+        85,
+        68
+      ],
+      "correct_actions": [
+        83
+      ]
+    },
+    {
+      "id": "forced_block_0131",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 1,
+      "history": [
+        101,
+        133,
+        145,
+        71,
+        131,
+        143,
+        86,
+        90,
+        116
+      ],
+      "correct_actions": [
+        146
+      ]
+    },
+    {
+      "id": "forced_block_0132",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 2,
+      "history": [
+        139,
+        115,
+        83,
+        131,
+        189,
+        147,
+        196,
+        99
+      ],
+      "correct_actions": [
+        163
+      ]
+    },
+    {
+      "id": "forced_block_0133",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 2,
+      "history": [
+        71,
+        104,
+        136,
+        151,
+        39,
+        23,
+        87,
+        36,
+        55
+      ],
+      "correct_actions": [
+        103
+      ]
+    },
+    {
+      "id": "forced_block_0134",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 3,
+      "history": [
+        87,
+        115,
+        106,
+        101,
+        88,
+        129,
+        73,
+        143
+      ],
+      "correct_actions": [
+        157
+      ]
+    },
+    {
+      "id": "forced_block_0135",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 3,
+      "history": [
+        55,
+        47,
+        218,
+        13,
+        41,
+        104,
+        27,
+        141,
+        69
+      ],
+      "correct_actions": [
+        83
+      ]
+    },
+    {
+      "id": "forced_block_0136",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 0,
+      "history": [
+        119,
+        131,
+        128,
+        130,
+        76,
+        132,
+        2,
+        129
+      ],
+      "correct_actions": [
+        133
+      ]
+    },
+    {
+      "id": "forced_block_0137",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 0,
+      "history": [
+        217,
+        172,
+        116,
+        153,
+        216,
+        215,
+        218,
+        208,
+        219
+      ],
+      "correct_actions": [
+        220
+      ]
+    },
+    {
+      "id": "forced_block_0138",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 1,
+      "history": [
+        20,
+        51,
+        19,
+        66,
+        21,
+        36,
+        40,
+        81
+      ],
+      "correct_actions": [
+        96
+      ]
+    },
+    {
+      "id": "forced_block_0139",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 1,
+      "history": [
+        51,
+        156,
+        66,
+        198,
+        81,
+        144,
+        36,
+        21,
+        196
+      ],
+      "correct_actions": [
+        96
+      ]
+    },
+    {
+      "id": "forced_block_0140",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 2,
+      "history": [
+        50,
+        53,
+        37,
+        101,
+        191,
+        85,
+        88,
+        69
+      ],
+      "correct_actions": [
+        117
+      ]
+    },
+    {
+      "id": "forced_block_0141",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 2,
+      "history": [
+        33,
+        17,
+        83,
+        51,
+        49,
+        24,
+        65,
+        98,
+        81
+      ],
+      "correct_actions": [
+        97
+      ]
+    },
+    {
+      "id": "forced_block_0142",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 3,
+      "history": [
+        40,
+        82,
+        179,
+        54,
+        134,
+        68,
+        72,
+        96
+      ],
+      "correct_actions": [
+        110
+      ]
+    },
+    {
+      "id": "forced_block_0143",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 3,
+      "history": [
+        100,
+        7,
+        114,
+        86,
+        125,
+        221,
+        142,
+        16,
+        128
+      ],
+      "correct_actions": [
+        156
+      ]
+    },
+    {
+      "id": "forced_block_0144",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 0,
+      "history": [
+        181,
+        98,
+        51,
+        99,
+        97,
+        100,
+        15,
+        101
+      ],
+      "correct_actions": [
+        102
+      ]
+    },
+    {
+      "id": "forced_block_0145",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 0,
+      "history": [
+        18,
+        119,
+        192,
+        16,
+        20,
+        211,
+        19,
+        59,
+        17
+      ],
+      "correct_actions": [
+        21
+      ]
+    },
+    {
+      "id": "forced_block_0146",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 1,
+      "history": [
+        172,
+        126,
+        149,
+        141,
+        81,
+        111,
+        86,
+        96
+      ],
+      "correct_actions": [
+        156
+      ]
+    },
+    {
+      "id": "forced_block_0147",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 1,
+      "history": [
+        45,
+        30,
+        75,
+        202,
+        196,
+        111,
+        60,
+        121,
+        90
+      ],
+      "correct_actions": [
+        105
+      ]
+    },
+    {
+      "id": "forced_block_0148",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 2,
+      "history": [
+        0,
+        118,
+        54,
+        102,
+        117,
+        70,
+        9,
+        86
+      ],
+      "correct_actions": [
+        134
+      ]
+    },
+    {
+      "id": "forced_block_0149",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 2,
+      "history": [
+        98,
+        6,
+        114,
+        50,
+        66,
+        218,
+        60,
+        106,
+        82
+      ],
+      "correct_actions": [
+        130
+      ]
+    },
+    {
+      "id": "forced_block_0150",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 3,
+      "history": [
+        23,
+        37,
+        197,
+        65,
+        212,
+        79,
+        213,
+        51
+      ],
+      "correct_actions": [
+        93
+      ]
+    },
+    {
+      "id": "forced_block_0151",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 3,
+      "history": [
+        112,
+        70,
+        126,
+        17,
+        98,
+        156,
+        84,
+        124,
+        10
+      ],
+      "correct_actions": [
+        140
+      ]
+    },
+    {
+      "id": "forced_block_0152",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 0,
+      "history": [
+        122,
+        125,
+        66,
+        123,
+        75,
+        124,
+        142,
+        126
+      ],
+      "correct_actions": [
+        127
+      ]
+    },
+    {
+      "id": "forced_block_0153",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 0,
+      "history": [
+        33,
+        202,
+        144,
+        140,
+        142,
+        224,
+        141,
+        22,
+        143
+      ],
+      "correct_actions": [
+        145
+      ]
+    },
+    {
+      "id": "forced_block_0154",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 1,
+      "history": [
+        190,
+        77,
+        62,
+        122,
+        181,
+        107,
+        138,
+        92
+      ],
+      "correct_actions": [
+        137
+      ]
+    },
+    {
+      "id": "forced_block_0155",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 1,
+      "history": [
+        171,
+        217,
+        156,
+        192,
+        141,
+        111,
+        126,
+        125,
+        80
+      ],
+      "correct_actions": [
+        186
+      ]
+    },
+    {
+      "id": "forced_block_0156",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 2,
+      "history": [
+        198,
+        141,
+        125,
+        173,
+        14,
+        189,
+        74,
+        157
+      ],
+      "correct_actions": [
+        205
+      ]
+    },
+    {
+      "id": "forced_block_0157",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 2,
+      "history": [
+        155,
+        113,
+        187,
+        149,
+        139,
+        9,
+        114,
+        123,
+        171
+      ],
+      "correct_actions": [
+        203
+      ]
+    },
+    {
+      "id": "forced_block_0158",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 3,
+      "history": [
+        43,
+        200,
+        188,
+        172,
+        129,
+        186,
+        144,
+        158
+      ],
+      "correct_actions": [
+        214
+      ]
+    },
+    {
+      "id": "forced_block_0159",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 3,
+      "history": [
+        109,
+        203,
+        123,
+        157,
+        104,
+        115,
+        137,
+        95,
+        151
+      ],
+      "correct_actions": [
+        165
+      ]
+    },
+    {
+      "id": "forced_block_0160",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 0,
+      "history": [
+        2,
+        98,
+        134,
+        97,
+        94,
+        95,
+        54,
+        96
+      ],
+      "correct_actions": [
+        99
+      ]
+    },
+    {
+      "id": "forced_block_0161",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 0,
+      "history": [
+        37,
+        130,
+        36,
+        33,
+        1,
+        40,
+        34,
+        71,
+        35
+      ],
+      "correct_actions": [
+        38
+      ]
+    },
+    {
+      "id": "forced_block_0162",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 1,
+      "history": [
+        149,
+        74,
+        14,
+        59,
+        111,
+        44,
+        34,
+        29
+      ],
+      "correct_actions": [
+        89
+      ]
+    },
+    {
+      "id": "forced_block_0163",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 1,
+      "history": [
+        29,
+        18,
+        74,
+        30,
+        44,
+        14,
+        59,
+        40,
+        93
+      ],
+      "correct_actions": [
+        89
+      ]
+    },
+    {
+      "id": "forced_block_0164",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 2,
+      "history": [
+        138,
+        170,
+        80,
+        154,
+        140,
+        186,
+        64,
+        202
+      ],
+      "correct_actions": [
+        218
+      ]
+    },
+    {
+      "id": "forced_block_0165",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 2,
+      "history": [
+        68,
+        113,
+        52,
+        216,
+        36,
+        4,
+        20,
+        147,
+        96
+      ],
+      "correct_actions": [
+        84
+      ]
+    },
+    {
+      "id": "forced_block_0166",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 3,
+      "history": [
+        124,
+        24,
+        104,
+        66,
+        10,
+        38,
+        160,
+        52
+      ],
+      "correct_actions": [
+        80
+      ]
+    },
+    {
+      "id": "forced_block_0167",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 3,
+      "history": [
+        117,
+        211,
+        58,
+        186,
+        159,
+        148,
+        145,
+        103,
+        131
+      ],
+      "correct_actions": [
+        173
+      ]
+    },
+    {
+      "id": "forced_block_0168",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 0,
+      "history": [
+        97,
+        128,
+        95,
+        126,
+        104,
+        127,
+        125,
+        129
+      ],
+      "correct_actions": [
+        130
+      ]
+    },
+    {
+      "id": "forced_block_0169",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 0,
+      "history": [
+        155,
+        65,
+        152,
+        151,
+        153,
+        30,
+        166,
+        80,
+        154
+      ],
+      "correct_actions": [
+        156
+      ]
+    },
+    {
+      "id": "forced_block_0170",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 1,
+      "history": [
+        129,
+        130,
+        44,
+        175,
+        115,
+        145,
+        142,
+        160
+      ],
+      "correct_actions": [
+        190
+      ]
+    },
+    {
+      "id": "forced_block_0171",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 1,
+      "history": [
+        73,
+        76,
+        43,
+        71,
+        88,
+        28,
+        69,
+        152,
+        58
+      ],
+      "correct_actions": [
+        103
+      ]
+    },
+    {
+      "id": "forced_block_0172",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 2,
+      "history": [
+        79,
+        127,
+        223,
+        111,
+        126,
+        143,
+        44,
+        95
+      ],
+      "correct_actions": [
+        159
+      ]
+    },
+    {
+      "id": "forced_block_0173",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 2,
+      "history": [
+        138,
+        115,
+        106,
+        90,
+        154,
+        149,
+        122,
+        143,
+        91
+      ],
+      "correct_actions": [
+        170
+      ]
+    },
+    {
+      "id": "forced_block_0174",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 3,
+      "history": [
+        132,
+        65,
+        87,
+        93,
+        7,
+        51,
+        37,
+        79
+      ],
+      "correct_actions": [
+        107
+      ]
+    },
+    {
+      "id": "forced_block_0175",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 3,
+      "history": [
+        112,
+        98,
+        153,
+        36,
+        126,
+        14,
+        154,
+        25,
+        140
+      ],
+      "correct_actions": [
+        168
+      ]
+    },
+    {
+      "id": "forced_block_0176",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 0,
+      "history": [
+        109,
+        110,
+        160,
+        111,
+        55,
+        112,
+        217,
+        113
+      ],
+      "correct_actions": [
+        114
+      ]
+    },
+    {
+      "id": "forced_block_0177",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 0,
+      "history": [
+        80,
+        96,
+        61,
+        47,
+        83,
+        138,
+        81,
+        79,
+        82
+      ],
+      "correct_actions": [
+        84
+      ]
+    },
+    {
+      "id": "forced_block_0178",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 1,
+      "history": [
+        101,
+        15,
+        95,
+        45,
+        152,
+        30,
+        0,
+        60
+      ],
+      "correct_actions": [
+        75
+      ]
+    },
+    {
+      "id": "forced_block_0179",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 1,
+      "history": [
+        48,
+        33,
+        63,
+        177,
+        93,
+        198,
+        78,
+        37,
+        143
+      ],
+      "correct_actions": [
+        108
+      ]
+    },
+    {
+      "id": "forced_block_0180",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 2,
+      "history": [
+        47,
+        79,
+        25,
+        111,
+        103,
+        95,
+        37,
+        63
+      ],
+      "correct_actions": [
+        127
+      ]
+    },
+    {
+      "id": "forced_block_0181",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 2,
+      "history": [
+        86,
+        93,
+        38,
+        69,
+        70,
+        214,
+        54,
+        22,
+        114
+      ],
+      "correct_actions": [
+        102
+      ]
+    },
+    {
+      "id": "forced_block_0182",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 3,
+      "history": [
+        44,
+        100,
+        46,
+        72,
+        157,
+        86,
+        223,
+        58
+      ],
+      "correct_actions": [
+        114
+      ]
+    },
+    {
+      "id": "forced_block_0183",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 3,
+      "history": [
+        49,
+        156,
+        35,
+        21,
+        197,
+        71,
+        63,
+        40,
+        77
+      ],
+      "correct_actions": [
+        91
+      ]
+    },
+    {
+      "id": "forced_block_0184",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 0,
+      "history": [
+        109,
+        50,
+        169,
+        47,
+        174,
+        49,
+        46,
+        48
+      ],
+      "correct_actions": [
+        51
+      ]
+    },
+    {
+      "id": "forced_block_0185",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 0,
+      "history": [
+        148,
+        136,
+        137,
+        224,
+        139,
+        187,
+        138,
+        28,
+        140
+      ],
+      "correct_actions": [
+        141
+      ]
+    },
+    {
+      "id": "forced_block_0186",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 1,
+      "history": [
+        2,
+        80,
+        98,
+        50,
+        17,
+        95,
+        35,
+        65
+      ],
+      "correct_actions": [
+        110
+      ]
+    },
+    {
+      "id": "forced_block_0187",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 1,
+      "history": [
+        108,
+        63,
+        93,
+        189,
+        158,
+        73,
+        78,
+        98,
+        123
+      ],
+      "correct_actions": [
+        138
+      ]
+    },
+    {
+      "id": "forced_block_0188",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 2,
+      "history": [
+        102,
+        153,
+        44,
+        169,
+        137,
+        185,
+        140,
+        201
+      ],
+      "correct_actions": [
+        217
+      ]
+    },
+    {
+      "id": "forced_block_0189",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 2,
+      "history": [
+        33,
+        126,
+        86,
+        22,
+        70,
+        135,
+        54,
+        68,
+        38
+      ],
+      "correct_actions": [
+        102
+      ]
+    },
+    {
+      "id": "forced_block_0190",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 3,
+      "history": [
+        142,
+        156,
+        136,
+        184,
+        21,
+        170,
+        73,
+        198
+      ],
+      "correct_actions": [
+        212
+      ]
+    },
+    {
+      "id": "forced_block_0191",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 3,
+      "history": [
+        188,
+        79,
+        160,
+        47,
+        26,
+        132,
+        174,
+        208,
+        146
+      ],
+      "correct_actions": [
+        202
+      ]
+    },
+    {
+      "id": "forced_block_0192",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 0,
+      "history": [
+        34,
+        117,
+        10,
+        114,
+        152,
+        116,
+        113,
+        115
+      ],
+      "correct_actions": [
+        118
+      ]
+    },
+    {
+      "id": "forced_block_0193",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 0,
+      "history": [
+        59,
+        115,
+        167,
+        165,
+        169,
+        90,
+        166,
+        56,
+        168
+      ],
+      "correct_actions": [
+        170
+      ]
+    },
+    {
+      "id": "forced_block_0194",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 1,
+      "history": [
+        59,
+        116,
+        170,
+        101,
+        56,
+        71,
+        76,
+        86
+      ],
+      "correct_actions": [
+        131
+      ]
+    },
+    {
+      "id": "forced_block_0195",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 1,
+      "history": [
+        177,
+        117,
+        222,
+        156,
+        147,
+        13,
+        132,
+        165,
+        162
+      ],
+      "correct_actions": [
+        192
+      ]
+    },
+    {
+      "id": "forced_block_0196",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 2,
+      "history": [
+        2,
+        66,
+        111,
+        18,
+        145,
+        34,
+        83,
+        50
+      ],
+      "correct_actions": [
+        82
+      ]
+    },
+    {
+      "id": "forced_block_0197",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 2,
+      "history": [
+        142,
+        19,
+        47,
+        222,
+        126,
+        31,
+        158,
+        110,
+        174
+      ],
+      "correct_actions": [
+        190
+      ]
+    },
+    {
+      "id": "forced_block_0198",
+      "kind": "forced_block",
+      "color": 0,
+      "direction": 3,
+      "history": [
+        50,
+        92,
+        65,
+        64,
+        63,
+        78,
+        167,
+        106
+      ],
+      "correct_actions": [
+        120
+      ]
+    },
+    {
+      "id": "forced_block_0199",
+      "kind": "forced_block",
+      "color": 1,
+      "direction": 3,
+      "history": [
+        93,
+        53,
+        121,
+        174,
+        80,
+        65,
+        107,
+        38,
+        79
+      ],
+      "correct_actions": [
+        135
+      ]
+    }
+  ],
+  "sha256": "90c7a3c174a24900ecb1dd57849090b12b4eb5b5382ad4e7043ad93c3542e173"
+}

@@ -1,0 +1,6 @@
+{
+  "started_epoch": 1793024489.6981275,
+  "deadline_epoch": 1793031689.6981275,
+  "maximum_seconds": 7200.0,
+  "authorization": "User requested a new 2048-search comparison; original training/evaluation budgets remain unchanged"
+}

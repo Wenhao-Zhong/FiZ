@@ -1,0 +1,4 @@
+# Preserve the exact bytes of published code and verified result artifacts.
+* -text
+*.pt binary
+*.png binary

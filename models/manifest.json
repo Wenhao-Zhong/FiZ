@@ -1,0 +1,71 @@
+{
+  "format": "az-gomoku-model-manifest-v1",
+  "exported_at": "2026-10-26T13:13:43.928641+00:00",
+  "network": {
+    "size": 15,
+    "width": 128,
+    "layers": 6,
+    "heads": 4,
+    "ff": 256,
+    "value_head": "wdl"
+  },
+  "seed": 101,
+  "artifacts": {
+    "final": {
+      "file": "final.pt",
+      "bytes": 4108682,
+      "sha256": "c6d3a3dc870c4f7a10f89910b87982612d8eec40cf68c8628fd5b6156de0bcbb",
+      "source_checkpoint_sha256": "9297acb61636120126610464090dce21a18d76fb834d67311c5729727c881900"
+    },
+    "initial": {
+      "file": "initial.pt",
+      "bytes": 4111242,
+      "sha256": "5841f40b938363528dbdb824cc0e9bc2f2cf49a42b16a626356e10aabba9b0ac",
+      "source_checkpoint_sha256": "5841f40b938363528dbdb824cc0e9bc2f2cf49a42b16a626356e10aabba9b0ac"
+    }
+  },
+  "training": {
+    "trajectory_counters": {
+      "real_plies": 5071777,
+      "completed_games": 149292,
+      "optimizer_steps": 19313,
+      "network_evaluations": 519216514,
+      "simulations": 612397504
+    },
+    "checkpoint_elapsed_seconds": 87135.22766542435,
+    "completed_wall_clock_seconds": 87136.46944999695,
+    "training_window_seconds": 86401.45115756989,
+    "excluded_downtime_seconds": 735.018292427063,
+    "outage_seconds": 730.9960358142853,
+    "handoff_seconds": 4.02225661277771,
+    "original_runtime_hours": 26.0,
+    "effective_runtime_hours": 26.204171747896407,
+    "checkpoint_configuration_differences": [
+      "runtime_hours"
+    ],
+    "failure_uncheckpointed_cost": {
+      "real_plies": 9264,
+      "completed_games": 259,
+      "optimizer_steps": 36,
+      "network_evaluations": 894461,
+      "simulations": 1077158,
+      "seconds_since_checkpoint": 151.52203909982927
+    },
+    "total_expended_counters": {
+      "real_plies": 5081041,
+      "completed_games": 149551,
+      "optimizer_steps": 19349,
+      "network_evaluations": 520110975,
+      "simulations": 613474662
+    },
+    "accounting": "Failure counters are additional expended work, not model trajectory. Failed-work seconds are already included in the training window; do not add them again."
+  },
+  "verification": {
+    "weights_only_load": true,
+    "exact_final_weight_match": true,
+    "exact_initial_weight_match": true,
+    "cpu_only": true
+  },
+  "model_name": "FiZ",
+  "model_name_expanded": "Five-in-a-row Zero"
+}
